@@ -8,6 +8,7 @@ baseurl: '/'
 google_analytics: ''
 disqus: mahmudblog
 mailchimp-list: 'https://github.us7.list-manage.com/subscribe/post?u=fb245679a93a6d0bd6681211b&amp;id=f02c47251c'
+
 include: ["_pages"]
 permalink: /:title.sm
 
@@ -24,7 +25,7 @@ authors:
       site:           https://mahmud.statmania.info
       avatar:         /assets/images/logo.jpg
       bio:            "Lecturer in statistics at Pabna Cadet College as well as a writer and data analyst"
-      email:          almahmud@gmail.com
+      email:          almahmud.sbi@gmail.com
       twitter:        https://twitter.com/thinkermahmud
 
     sal:
