@@ -19,6 +19,14 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+    mahmud:
+      name:           Abdullah Al Mahmud
+      site:           https://mahmud.statmania.info
+      avatar:         /assets/images/logo.jpg
+      bio:            "Lecturer in statistics at Pabna Cadet College as well as a writer and data analyst"
+      email:          almahmud@gmail.com
+      facebook:        https://fb.com/mahmud.sbi
+
     sal:
       name:           Sal
       site:           https://www.wowthemes.net
