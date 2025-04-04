@@ -76,7 +76,7 @@ Decide whether the following statements are **True**, **False**, or **Not Given*
 5.  The exact amount of exercise required for memory benefits is definitively known.
 6.  The positive effects of exercise on memory are limited to older adults.
 
-<div onclick="klikaj('tfng2')"><span><b>Click to see the answer keys</b></span></div>
-<div id="tfng2" style="visibility: hidden">
+<div onclick="klikaj('tfng3')"><span><b>Click to see the answer keys</b></span></div>
+<div id="tfng3" style="visibility: hidden">
 <b>1F 2T 3F 4NG 5F 6F</b>
 </div>
