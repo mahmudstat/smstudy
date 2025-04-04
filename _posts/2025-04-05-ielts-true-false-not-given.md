@@ -35,3 +35,26 @@ function klikaj(i) {
     document.getElementById(i).style.visibility='visible';
 }
 </script>
+
+
+### Set 02
+
+**Coffee consumption**
+
+Coffee is one of the world's most popular beverages, enjoyed by millions for its stimulating effects and distinctive flavor. The primary active compound in coffee is caffeine, a natural stimulant that can enhance alertness and improve focus. Studies have shown that moderate coffee consumption may be associated with a reduced risk of certain health conditions, such as type 2 diabetes and Parkinson's disease. However, excessive intake of caffeine can lead to negative side effects, including anxiety, insomnia, and increased heart rate. The effects of coffee can also vary depending on individual factors such as metabolism and sensitivity to caffeine. While some research suggests a potential link between very high coffee consumption and certain health risks, the overwhelming scientific consensus points to moderate consumption being generally safe for most adults.
+
+**Statements:**
+
+Decide whether the following statements are **True**, **False**, or **Not Given** based on the information in the text.
+
+1.  Tea is more widely consumed globally than coffee.
+2.  Caffeine is the only active compound present in coffee.
+3.  Drinking a moderate amount of coffee has been linked to a lower chance of developing some illnesses.
+4.  Increased heart rate is a guaranteed outcome of drinking coffee.
+5.  Individual responses to coffee are consistent across all people.
+6.  The majority of scientific opinion indicates that drinking a lot of coffee is beneficial for health.
+
+<div onclick="klikaj('tfng2')"><span><b>Click to see the answer keys</b></span></div>
+<div id="tfng2" style="visibility: hidden">
+<b>1NG 2F 3T 4F 5F 6F</b>
+</div>
