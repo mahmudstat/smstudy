@@ -9,6 +9,8 @@ description: "IELTS: Matching Features Practice Sets"
 hidden: false
 ---
 
+### Set 01
+
 **Please read the text and then answer the matching questions below.**
 
 **The Rise of Urban Farming**
@@ -35,9 +37,9 @@ Match each type of urban farming (A-D) with the feature that best describes it (
 6.  Typically utilizes publicly accessible or donated land. _______
 
 
-<div onclick="klikaj('mtcft1')"><span>**Click to see the answer keys**</span></div>
+<div onclick="klikaj('mtcft1')"><span><b>Click to see the answer keys</b></span></div>
 <div id="mtcft1" style="visibility: hidden">
-**1 C 2 D 3 A 4 B 5 C 6 D**
+<b>1 C 2 D 3 A 4 B 5 C 6 D</b>
 </div>
 <script>
 function klikaj(i) {

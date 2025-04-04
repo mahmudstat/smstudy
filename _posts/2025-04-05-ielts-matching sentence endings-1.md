@@ -33,17 +33,23 @@ Match the beginning of each sentence (1-4) with the most appropriate ending (A-G
 **Possible Endings:**
 
 A. ...which improved rider comfort significantly.
+
 B. ...achieve higher speeds compared to earlier models.
+
 C. ...pushed with their feet to move forward.
+
 D. ...lacked pedals on the rear wheel and had steering difficulties.
+
 E. ...became a much safer and more widely used form of transport.
+
 F. ...was made primarily of wood and iron.
+
 G. ...included gears for varying speeds.
 
 
-<div onclick="klikaj('mtcse1')"><span>**Click to see the answer keys**</span></div>
+<div onclick="klikaj('mtcse1')"><span><b>Click to see the answer keys</b>></span></div>
 <div id="mtcse1" style="visibility: hidden">
-**1C 2D 3B 4E**
+<b>1C 2D 3B 4E</b>
 </div>
 <script>
 function klikaj(i) {
