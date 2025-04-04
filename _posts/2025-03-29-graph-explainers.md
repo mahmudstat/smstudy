@@ -3,11 +3,11 @@ layout: post
 title:  "List of versatile words and phrases to effectively describe tables and graphs"
 author: mahmud
 categories: [ writing, statistics ]
-tags: [ ielts, english ]
-image: assets/images/writing.jpeg
+tags: [ IELTS, english ]
+image: assets/images/thumb/writing.jpeg
 description: "List of versatile words and phrases to effectively describe tables and graphs"
 hidden: false
-#featured: true
+featured: true
 ---
 
 Here's a list of versatile words and phrases to effectively describe tables and graphs, categorized for clarity:
