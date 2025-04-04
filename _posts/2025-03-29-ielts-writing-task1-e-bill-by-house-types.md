@@ -13,7 +13,7 @@ featured: true
 <div style="overflow-x: auto; width: 100%;">
   <iframe
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCXgJvc7WAGzS_qtWNm3v_NlWNH6z4Q1nuE5Rvl57iaxikH-zLgpEv3lCt1u5cAecIQjhAR5F574vX/pubchart?oid=1153568330&amp;format=interactive"
-    style="min-width: 900px; width: 100%; height: 500px; border: none;"
+    style="min-width: 900px; width: 100%; height: 360px; border: none;"
     frameborder="0"
     scrolling="no"
     allowfullscreen
