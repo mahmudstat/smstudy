@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Passage: The Paradox of Individualism in Modern Society"
+title:  "GRE Text: The Paradox of Individualism in Modern Society"
 author: mahmud
 categories: [ GRE ]
 tags: [ RC ]
