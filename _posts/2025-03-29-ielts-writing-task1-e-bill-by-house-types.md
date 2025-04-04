@@ -10,7 +10,15 @@ hidden: false
 featured: true
 ---
 
-<iframe width="507" height="313" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCXgJvc7WAGzS_qtWNm3v_NlWNH6z4Q1nuE5Rvl57iaxikH-zLgpEv3lCt1u5cAecIQjhAR5F574vX/pubchart?oid=1153568330&amp;format=interactive"></iframe>
+<div class="responsive-iframe">
+  <iframe
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCXgJvc7WAGzS_qtWNm3v_NlWNH6z4Q1nuE5Rvl57iaxikH-zLgpEv3lCt1u5cAecIQjhAR5F574vX/pubchart?oid=1153568330&amp;format=interactive"
+    frameborder="0"
+    scrolling="no"
+    seamless
+    allowfullscreen>
+  </iframe>
+</div>
 
 The table illustrates the average monthly electricity consumption (in kWh) across four cities—New York, London, Tokyo, and Sydney—for three types of households: apartments, townhouses, and detached houses.
 

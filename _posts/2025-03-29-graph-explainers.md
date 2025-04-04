@@ -72,6 +72,3 @@ Here's a list of versatile words and phrases to effectively describe tables and 
 * "The graph **illustrates** a **gradual decline**..."
 * "The **correlation** between X and Y is **notable**..."
 
-A sample bar chart
-
-<iframe width="507" height="313" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCXgJvc7WAGzS_qtWNm3v_NlWNH6z4Q1nuE5Rvl57iaxikH-zLgpEv3lCt1u5cAecIQjhAR5F574vX/pubchart?oid=1153568330&amp;format=interactive"></iframe>
