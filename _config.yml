@@ -1,7 +1,7 @@
 # Site
-name: "Stat Mania"
-title: "Stat Mania Blog"
-description: "পরিসংখ্যান কী ও কেন? পরিসংখ্যান আমাদের জীবনে কীভাবে কাজে লাগে? মেশিন লার্নিংয়ের সাথে পরিসংখ্যানের কী সম্পর্ক? সহজে কীভাবে পরিসংখ্যান বুঝব? এমনসব বিষয় নিয়েই সাজানো হয়েছে ওয়েবসাইটটি।"
+name: "Study Mania"
+title: "Study Mania"
+description: "Study Materials, including of GRE, TOFEL, and IELTS"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'

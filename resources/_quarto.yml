@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: "."
+
+book:
+  title: "Prep Materials"
+  author: "Abdullah Al Mahmud"
+  date: "4/3/2025"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - gre-words.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+
+
+
