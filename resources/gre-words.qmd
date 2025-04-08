@@ -1,6 +1,11 @@
-# GRE Words
+---
+title: "GRE Words"
+format:
+  html:
+    css: tooltip.css
+---
 
-**Hover over the words to see the corresponding meaning.**
+*Hover over the words to see the corresponding meaning.*
 
 ## Day 01
 
@@ -57,13 +62,13 @@ When the documentary on ancient exploration aired, viewers were struck by the na
 
 ### Set 04
 
-Officious, obtain (to be valid), evanescent, concomitant, modicum
+**[Officious](## "Offering unnecessary and unwanted advice or services; meddlesome"), [Obtain](## "To acquire something, especially through effort or means; to be valid or in effect"), [Evanescent](## "Quickly fading or disappearing; fleeting"), [Concomitant](## "Accompanying or happening at the same time as something else, often in a related manner"), [Modicum](## "A small quantity or portion of something, especially a small amount of a quality or feeling")**
 
 The intern’s **officious** behavior—constantly offering unwanted help and inserting herself into every discussion—quickly wore thin with the senior staff. Though her enthusiasm was noted, it wasn’t clear whether her suggestions **obtained** in the current context; many of her ideas, though theoretically sound, didn’t apply to the company’s real-world constraints. Her excitement, while genuine, proved **evanescent**, fading within weeks as the pace of the job caught up with her. Fatigue and frustration soon became **concomitant** with her daily routine, and even a **modicum** of encouragement from supervisors might have helped her stay engaged longer.
 
 ### Set 05
 
-Pillory, lachrymose, veritable, capitulate, despot
+**[Pillory](## "A wooden framework with holes for the head and hands, used for public punishment; to subject someone to public ridicule"), [Lachrymose](## "Tearful or given to weeping; sad or sorrowful"), [Veritable](## "Being truly or very much so; used to emphasize a metaphor or description"), [Capitulate](## "To surrender or give in to an opponent or demand, often after negotiation or resistance"), [Despot](## "A ruler with absolute power, often one who exercises it in a tyrannical or oppressive manner")**
 
 Though once hailed as a reformer, the ruler quickly revealed himself to be a **veritable** **despot**, suppressing dissent with a ruthlessness that shocked even his former supporters. Journalists who dared question his policies were publicly **pilloried**, not just figuratively but in broadcasts meant to humiliate and silence. As resistance movements faltered under harsh crackdowns, their leaders were forced to **capitulate**, abandoning their causes in exchange for leniency. The population, weary and disillusioned, grew increasingly **lachrymose**, mourning not only lost freedoms but the betrayal of their hopes.
 
@@ -71,20 +76,18 @@ Though once hailed as a reformer, the ruler quickly revealed himself to be a **v
 
 ### Set 01
 
-Debauchery, exorbitant, repudiation,seasoned, forthright
+**[Debauchery](## "Excessive indulgence in sensual pleasures, often leading to moral corruption"), [Exorbitant](## "Unreasonably high or excessive, especially in terms of price or amount"), [Repudiation](## "The rejection or disavowal of something, often a belief, idea, or claim"), [Seasoned](## "Experienced or skilled in a particular field or activity; or flavored with spices"), [Forthright](## "Direct and straightforward in manner; honest and clear")**
 
 The senator’s downfall was precipitated by allegations of prolonged **debauchery**, which sharply contrasted with his once wholesome public image. Critics seized on the opportunity, calling his actions not merely irresponsible but emblematic of the **exorbitant** privileges afforded to those in power. His televised **repudiation** of the claims—though lengthy—struck many as evasive and insincere. In contrast, a more **seasoned** colleague offered a **forthright** assessment of the scandal, acknowledging its validity while calling for a more accountable political culture.
 
 ### Set 02
 
-<span
-  onmouseover="document.getElementById('tip1').style.display='inline';"
-  onmouseout="document.getElementById('tip1').style.display='none';"
-  style="text-decoration: underline; cursor: help;">
-  Sardonic
-</span>
-<span
-  id="tip1"
-  style="display:none; background: #333; color: white; padding: 4px 8px; border-radius: 4px; position: absolute; z-index: 100;">
-  Mocking or cynical, often in a scornful manner
-</span>
+**[Poignant](## "Evoking a strong sense of sadness or regret; emotionally moving"), [Trenchant](## "Sharp, incisive, or forceful in expression or style"), [Egalitarian](## "Believing in or advocating for equal rights and opportunities for all people"), [Ebullient](## "Overflowing with enthusiasm or excitement; bubbly"), [Dissipate](## "To squander or waste something, especially energy, money, or resources")**
+
+The documentary offered a **poignant** look at communities displaced by industrial expansion, its emotional depth accentuated by a **trenchant** critique of unchecked corporate power. While the film advocated for an **egalitarian** approach to resource distribution, its message was delivered with such **ebullient** energy that even the most skeptical viewers were drawn in. Sadly, much of the initial momentum for reform would soon **dissipate**, lost in bureaucratic delays and squandered opportunities for real change.
+
+### Set 03
+
+**[Enamored](## "Filled with love or admiration for someone or something"), [Cataclysm](## "A large-scale and violent event, often causing great destruction or change"), [Loath](## "Reluctant or unwilling to do something; strongly opposed"), [Frivolous](## "Not having serious value or importance; carefree or silly"), [Estimable](## "Worthy of respect or admiration; deserving of esteem")**
+
+Despite being **enamored** with the idea of a career in art, Jane soon realized that her initial enthusiasm was not enough to shield her from the harsh realities of the profession. The financial instability she faced, along with the looming threat of a **cataclysm** in the industry due to new technological changes, made her deeply **loath** to continue pursuing a path that seemed increasingly uncertain. Many of her peers, however, remained committed to what they saw as a noble cause, refusing to be swayed by the **frivolous** distractions that often accompanied fame. Jane, although uncertain, still held her mentor in high regard for being an **estimable** figure who had endured many of the same challenges.
