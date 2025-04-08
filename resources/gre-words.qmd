@@ -55,5 +55,36 @@ The startup's **vaunted** technology, hailed as revolutionary in press releases,
 
 When the documentary on ancient exploration aired, viewers were struck by the narrator’s **sardonic** humor—his dry, almost mocking remarks added unexpected levity to the subject. One segment explored an old **canard** about a lost civilization supposedly buried beneath the ocean, a story long since debunked but still retold with fascination. The archaeologist interviewed gave an **oblique** answer when asked about his belief in the legend, hinting at possibilities without ever stating his view directly. The ruins themselves, **bereft** of any inscriptions or artifacts, offered little to support the myth. The team’s biggest challenge, however, was the **exiguity** of light in the cave—just enough to see, but not enough to photograph anything clearly.
 
-Test
-<span title="Mocking or cynical, often in a scornful manner">**Sardonic**</span>
+### Set 04
+
+Officious, obtain (to be valid), evanescent, concomitant, modicum
+
+The intern’s **officious** behavior—constantly offering unwanted help and inserting herself into every discussion—quickly wore thin with the senior staff. Though her enthusiasm was noted, it wasn’t clear whether her suggestions **obtained** in the current context; many of her ideas, though theoretically sound, didn’t apply to the company’s real-world constraints. Her excitement, while genuine, proved **evanescent**, fading within weeks as the pace of the job caught up with her. Fatigue and frustration soon became **concomitant** with her daily routine, and even a **modicum** of encouragement from supervisors might have helped her stay engaged longer.
+
+### Set 05
+
+Pillory, lachrymose, veritable, capitulate, despot
+
+Though once hailed as a reformer, the ruler quickly revealed himself to be a **veritable** **despot**, suppressing dissent with a ruthlessness that shocked even his former supporters. Journalists who dared question his policies were publicly **pilloried**, not just figuratively but in broadcasts meant to humiliate and silence. As resistance movements faltered under harsh crackdowns, their leaders were forced to **capitulate**, abandoning their causes in exchange for leniency. The population, weary and disillusioned, grew increasingly **lachrymose**, mourning not only lost freedoms but the betrayal of their hopes.
+
+## Day 03
+
+### Set 01
+
+Debauchery, exorbitant, repudiation,seasoned, forthright
+
+The senator’s downfall was precipitated by allegations of prolonged **debauchery**, which sharply contrasted with his once wholesome public image. Critics seized on the opportunity, calling his actions not merely irresponsible but emblematic of the **exorbitant** privileges afforded to those in power. His televised **repudiation** of the claims—though lengthy—struck many as evasive and insincere. In contrast, a more **seasoned** colleague offered a **forthright** assessment of the scandal, acknowledging its validity while calling for a more accountable political culture.
+
+### Set 02
+
+<span
+  onmouseover="document.getElementById('tip1').style.display='inline';"
+  onmouseout="document.getElementById('tip1').style.display='none';"
+  style="text-decoration: underline; cursor: help;">
+  Sardonic
+</span>
+<span
+  id="tip1"
+  style="display:none; background: #333; color: white; padding: 4px 8px; border-radius: 4px; position: absolute; z-index: 100;">
+  Mocking or cynical, often in a scornful manner
+</span>
