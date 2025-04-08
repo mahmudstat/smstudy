@@ -1,2 +1,1 @@
-# alomoy-blog
-Alomoy Blog
+# Stat Mania
