@@ -9,7 +9,8 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - gre-words.qmd
+    - gre-short-passage.qmd
+    - gre-word-list.qmd
 
 bibliography: references.bib
 

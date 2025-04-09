@@ -1,0 +1,32 @@
+# GRE Word List
+<ol>
+<li id = "Desiccated">Desiccated: Thoroughly dried out; lacking moisture</li>
+<li id="Transmute">Transmute: To change or alter in form, appearance, or nature, especially to a higher or more refined state</li>
+<li id="Proscribe">Proscribe: To forbid or prohibit officially; to denounce or condemn</li>
+<li id="Turgid">Turgid: Swollen or bloated; excessively ornate or complex in style or language</li>
+<li id="Dolorous">Dolorous: Feeling or expressing great sorrow or distress</li>
+<li id="Solicitous">Solicitous: Showing concern or care for someone's well-being; eager or attentive</li>
+<li id="Stultify">Stultify: To make someone or something appear foolish or absurd; to impair or reduce effectiveness</li>
+<li id="Internecine">Internecine: Destructive to both sides in a conflict; involving mutual slaughter</li>
+<li id="Hauteur">Hauteur: Arrogant pride or snobbishness in manner or attitude</li>
+<li id="Panegyric">Panegyric: A formal or elaborate praise, especially in speech or writing</li>
+<li id="Pontificate">Pontificate: To speak or express opinions in a pompous or dogmatic way</li>
+<li id="Conflagration">Conflagration: A large and destructive fire; a violent conflict or war</li>
+<li id="Unassailable">Unassailable: Impossible to dispute, attack, or question</li>
+<li id="Impervious">Impervious: Not affected or influenced by something; unable to be penetrated</li>
+<li id="Appropriate">Appropriate: To take something for one’s own use, typically without permission; suitable or fitting</li>
+<li id="Malingerer">Malingerer: A person who pretends to be ill in order to avoid work or duty</li>
+<li id="Unimpeachable">Unimpeachable: Beyond doubt or criticism; entirely trustworthy</li>
+<li id="Enormity">Enormity: The great or extreme scale, seriousness, or extent of something bad or morally wrong</li>
+<li id="Self-effacing">Self-effacing: Not drawing attention to oneself; modest</li>
+<li id="Coterminous">Coterminous: Having the same boundaries or extent in space, time, or meaning</li>
+<li id="Elegiac">Elegiac: Expressing sorrow or lamentation, often for something past</li>
+<li id="Desiccated">Desiccated: Thoroughly dried out; lacking moisture</li>
+<li id="Proselytize">Proselytize: To attempt to convert someone to a particular belief or faith</li>
+<li id="Pellucid">Pellucid: Clear, transparent, or easily understood</li>
+<li id="Gumption">Gumption: Courage, initiative, or resourcefulness</li>
+<li id="Bridle">Bridle: To restrain or control, especially in a way that limits freedom</li>
+
+</ol>
+
+
