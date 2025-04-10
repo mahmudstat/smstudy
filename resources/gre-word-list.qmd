@@ -735,13 +735,253 @@ To see example in a sentence, click on the word.
 <li id="Miscreant"><a href="gre-short-passage.html#Miscreant"><b>Miscreant</b></a>: <em>A person who behaves badly or criminally</em></li>
 <li id="Miser"><a href="gre-short-passage.html#Miser"><b>Miser</b></a>: <em>A person who hoards wealth and spends as little as possible</em></li>
 
-
 <h2 id="N">N</h2>
+
+<li id="Nadir"><a href="gre-short-passage.html#Nadir"><b>Nadir</b></a>: <em>The lowest point of something, particularly in a figurative sense</em></li>
+<li id="Negligible"><a href="gre-short-passage.html#Negligible"><b>Negligible</b></a>: <em>So small or unimportant as to be not worth considering</em></li>
+<li id="Nettlesome"><a href="gre-short-passage.html#Nettlesome"><b>Nettlesome</b></a>: <em>Causing annoyance or difficulty</em></li>
+<li id="Noisome"><a href="gre-short-passage.html#Noisome"><b>Noisome</b></a>: <em>Having an unpleasant odor or being harmful to health</em></li>
+<li id="Nonchalant"><a href="gre-short-passage.html#Nonchalant"><b>Nonchalant</b></a>: <em>Casual, indifferent, or unconcerned</em></li>
+<li id="Nonplussed"><a href="gre-short-passage.html#Nonplussed"><b>Nonplussed</b></a>: <em>Confused, unsure of how to respond</em></li>
+<li id="Nuance"><a href="gre-short-passage.html#Nuance"><b>Nuance</b></a>: <em>A subtle difference or distinction</em></li>
+
 <h2 id="O">O</h2>
+
+<li id="Obdurate"><a href="gre-short-passage.html#Obdurate"><b>Obdurate</b></a>: <em>Stubbornly resistant to influence or persuasion</em></li>
+<li id="Objurgate"><a href="gre-short-passage.html#Objurgate"><b>Objurgate</b></a>: <em>To scold or rebuke harshly</em></li>
+<li id="Obliging"><a href="gre-short-passage.html#Obliging"><b>Obliging</b></a>: <em>Willing to help or assist others; cooperative</em></li>
+<li id="Oblique"><a href="gre-short-passage.html#Oblique"><b>Oblique</b></a>: <em>Not straightforward or direct; slanting or angled</em></li>
+<li id="Obscure"><a href="gre-short-passage.html#Obscure"><b>Obscure</b></a>: <em>Unclear or difficult to understand; hidden or unknown</em></li>
+<li id="Obscure"><a href="gre-short-passage.html#Obscure"><b>Obscure</b></a>: <em>To make something unclear or less visible</em></li>
+<li id="Obsequious"><a href="gre-short-passage.html#Obsequious"><b>Obsequious</b></a>: <em>Excessively eager to please or serve others; servile</em></li>
+<li id="Obstinate"><a href="gre-short-passage.html#Obstinate"><b>Obstinate</b></a>: <em>Stubbornly refusing to change one's opinion or course of action</em></li>
+<li id="Obstreperous"><a href="gre-short-passage.html#Obstreperous"><b>Obstreperous</b></a>: <em>Noisy and difficult to control</em></li>
+<li id="Obtain"><a href="gre-short-passage.html#Obtain"><b>Obtain</b></a>: <em>To acquire or gain possession of something</em></li>
+<li id="Obtuse"><a href="gre-short-passage.html#Obtuse"><b>Obtuse</b></a>: <em>Slow to understand or perceive; lacking sharpness</em></li>
+<li id="Officious"><a href="gre-short-passage.html#Officious"><b>Officious</b></a>: <em>Excessively eager to offer unwanted services or advice</em></li>
+<li id="Opaque"><a href="gre-short-passage.html#Opaque"><b>Opaque</b></a>: <em>Not allowing light to pass through; not transparent</em></li>
+<li id="Opulence"><a href="gre-short-passage.html#Opulence"><b>Opulence</b></a>: <em>Great wealth, luxury, or abundance</em></li>
+<li id="Ornate"><a href="gre-short-passage.html#Ornate"><b>Ornate</b></a>: <em>Elaborately decorated or adorned</em></li>
+<li id="Ossify"><a href="gre-short-passage.html#Ossify"><b>Ossify</b></a>: <em>To become rigid or inflexible in thinking or behavior</em></li>
+<li id="Ostentatious"><a href="gre-short-passage.html#Ostentatious"><b>Ostentatious</b></a>: <em>Showy or extravagant in a way that is meant to attract attention</em></li>
+<li id="Ostracize"><a href="gre-short-passage.html#Ostracize"><b>Ostracize</b></a>: <em>To exclude or banish someone from a group or society</em></li>
+<li id="Overweening"><a href="gre-short-passage.html#Overweening"><b>Overweening</b></a>: <em>Excessively arrogant or self-important</em></li>
+
+
 <h2 id="P">P</h2>
+
+<li id="Palatable"><a href="gre-short-passage.html#Palatable"><b>Palatable</b></a>: <em>Acceptable or pleasant to the taste or mind</em></li>
+<li id="Palaver"><a href="gre-short-passage.html#Palaver"><b>Palaver</b></a>: <em>Talk that is long-winded, empty, or insincere</em></li>
+<li id="Palimpsest"><a href="gre-short-passage.html#Palimpsest"><b>Palimpsest</b></a>: <em>A manuscript or document that has been erased and rewritten, often multiple times</em></li>
+<li id="Panacea"><a href="gre-short-passage.html#Panacea"><b>Panacea</b></a>: <em>A universal remedy or solution for all problems</em></li>
+<li id="Panache"><a href="gre-short-passage.html#Panache"><b>Panache</b></a>: <em>Flair, style, or distinctive elegance</em></li>
+<li id="Panegyric"><a href="gre-short-passage.html#Panegyric"><b>Panegyric</b></a>: <em>A formal public praise or tribute</em></li>
+<li id="Paradoxical"><a href="gre-short-passage.html#Paradoxical"><b>Paradoxical</b></a>: <em>Seemingly self-contradictory or absurd but potentially true</em></li>
+<li id="Paragon"><a href="gre-short-passage.html#Paragon"><b>Paragon</b></a>: <em>A model of excellence or perfection</em></li>
+<li id="Paragon"><a href="gre-short-passage.html#Paragon"><b>Paragon</b></a>: <em>A person or thing regarded as a perfect example of a particular quality</em></li>
+<li id="Pariah"><a href="gre-short-passage.html#Pariah"><b>Pariah</b></a>: <em>An outcast or someone who is despised or rejected by others</em></li>
+<li id="Parochial"><a href="gre-short-passage.html#Parochial"><b>Parochial</b></a>: <em>Limited or narrow in scope, often relating to a parish or local area</em></li>
+<li id="Parsimonious"><a href="gre-short-passage.html#Parsimonious"><b>Parsimonious</b></a>: <em>Extremely frugal or unwilling to spend money</em></li>
+<li id="Parvenu"><a href="gre-short-passage.html#Parvenu"><b>Parvenu</b></a>: <em>A person who has recently acquired wealth or social status but is considered an outsider</em></li>
+<li id="Pastoral"><a href="gre-short-passage.html#Pastoral"><b>Pastoral</b></a>: <em>Relating to the countryside or rural life; idealized or romanticized view of rural life</em></li>
+<li id="Patent"><a href="gre-short-passage.html#Patent"><b>Patent</b></a>: <em>Clearly evident or obvious; a legal right granted for an invention</em></li>
+<li id="Patronize"><a href="gre-short-passage.html#Patronize"><b>Patronize</b></a>: <em>To treat with condescension or as if one is superior</em></li>
+<li id="Paucity"><a href="gre-short-passage.html#Paucity"><b>Paucity</b></a>: <em>A scarcity or lack of something</em></li>
+<li id="Pecuniary"><a href="gre-short-passage.html#Pecuniary"><b>Pecuniary</b></a>: <em>Relating to or involving money</em></li>
+<li id="Pedantic"><a href="gre-short-passage.html#Pedantic"><b>Pedantic</b></a>: <em>Excessively concerned with minor details or formal rules</em></li>
+<li id="Pedestrian"><a href="gre-short-passage.html#Pedestrian"><b>Pedestrian</b></a>: <em>Lacking imagination, dull, or ordinary</em></li>
+<li id="Peevish"><a href="gre-short-passage.html#Peevish"><b>Peevish</b></a>: <em>Quick to show annoyance or irritation</em></li>
+<li id="Pejorative"><a href="gre-short-passage.html#Pejorative"><b>Pejorative</b></a>: <em>Expressing disapproval or negative connotations</em></li>
+<li id="Pellucid"><a href="gre-short-passage.html#Pellucid"><b>Pellucid</b></a>: <em>Transparent or clear in meaning or appearance</em></li>
+<li id="Penurious"><a href="gre-short-passage.html#Penurious"><b>Penurious</b></a>: <em>Poor, destitute, or unwilling to spend money</em></li>
+<li id="Penurious"><a href="gre-short-passage.html#Penurious"><b>Penurious</b></a>: <em>Very poor or lacking in resources</em></li>
+<li id="Percipient"><a href="gre-short-passage.html#Percipient"><b>Percipient</b></a>: <em>Having an ability to perceive or understand things clearly</em></li>
+<li id="Peremptory"><a href="gre-short-passage.html#Peremptory"><b>Peremptory</b></a>: <em>Not allowing refusal or contradiction; authoritative</em></li>
+<li id="Perennial"><a href="gre-short-passage.html#Perennial"><b>Perennial</b></a>: <em>Continuing or lasting for a long time, often used for plants that grow year after year</em></li>
+<li id="Perfidy"><a href="gre-short-passage.html#Perfidy"><b>Perfidy</b></a>: <em>Faithlessness, betrayal, or treachery</em></li>
+<li id="Perfunctory"><a href="gre-short-passage.html#Perfunctory"><b>Perfunctory</b></a>: <em>Done with minimal effort or enthusiasm; routine</em></li>
+<li id="Peripatetic"><a href="gre-short-passage.html#Peripatetic"><b>Peripatetic</b></a>: <em>Wandering or traveling from place to place</em></li>
+<li id="Pernicious"><a href="gre-short-passage.html#Pernicious"><b>Pernicious</b></a>: <em>Having a harmful or destructive effect</em></li>
+<li id="Perpetuate"><a href="gre-short-passage.html#Perpetuate"><b>Perpetuate</b></a>: <em>To make something continue or last indefinitely</em></li>
+<li id="Perquisite"><a href="gre-short-passage.html#Perquisite"><b>Perquisite</b></a>: <em>A special privilege or benefit received in addition to regular income or salary</em></li>
+<li id="Perspicacious"><a href="gre-short-passage.html#Perspicacious"><b>Perspicacious</b></a>: <em>Having keen insight or perception</em></li>
+<li id="Pertinent"><a href="gre-short-passage.html#Pertinent"><b>Pertinent</b></a>: <em>Relevant or directly related to the matter at hand</em></li>
+<li id="Perturb"><a href="gre-short-passage.html#Perturb"><b>Perturb</b></a>: <em>To disturb or unsettle, especially in a way that causes anxiety</em></li>
+<li id="Peruse"><a href="gre-short-passage.html#Peruse"><b>Peruse</b></a>: <em>To read carefully or thoroughly</em></li>
+<li id="Petulant"><a href="gre-short-passage.html#Petulant"><b>Petulant</b></a>: <em>Childishly sulky or bad-tempered</em></li>
+<li id="Phantasmagorical"><a href="gre-short-passage.html#Phantasmagorical"><b>Phantasmagorical</b></a>: <em>Having a surreal or dreamlike quality; fantastical</em></li>
+<li id="Philistine"><a href="gre-short-passage.html#Philistine"><b>Philistine</b></a>: <em>A person who is indifferent or hostile to culture, art, or intellectual pursuits</em></li>
+<li id="Phlegmatic"><a href="gre-short-passage.html#Phlegmatic"><b>Phlegmatic</b></a>: <em>Having a calm, composed, or unemotional demeanor</em></li>
+<li id="Picayune"><a href="gre-short-passage.html#Picayune"><b>Picayune</b></a>: <em>Of little value or importance; petty</em></li>
+<li id="Pillory"><a href="gre-short-passage.html#Pillory"><b>Pillory</b></a>: <em>A device for public punishment; to publicly shame or criticize</em></li>
+<li id="Pine"><a href="gre-short-passage.html#Pine"><b>Pine</b></a>: <em>To feel intense longing or desire, often accompanied by sadness</em></li>
+<li id="Pinnacle"><a href="gre-short-passage.html#Pinnacle"><b>Pinnacle</b></a>: <em>The highest point or peak of something</em></li>
+<li id="Piquant"><a href="gre-short-passage.html#Piquant"><b>Piquant</b></a>: <em>Having a pleasantly sharp taste or stimulating interest</em></li>
+<li id="Pith"><a href="gre-short-passage.html#Pith"><b>Pith</b></a>: <em>The essential or central part of something</em></li>
+<li id="Pithy"><a href="gre-short-passage.html#Pithy"><b>Pithy</b></a>: <em>Concise and forcefully expressive</em></li>
+<li id="Pittance"><a href="gre-short-passage.html#Pittance"><b>Pittance</b></a>: <em>A small or inadequate amount, especially of money</em></li>
+<li id="Placate"><a href="gre-short-passage.html#Placate"><b>Placate</b></a>: <em>To calm or soothe someone, often by appeasing them</em></li>
+<li id="Placid"><a href="gre-short-passage.html#Placid"><b>Placid</b></a>: <em>Calm and peaceful; without disturbance</em></li>
+<li id="Platitude"><a href="gre-short-passage.html#Platitude"><b>Platitude</b></a>: <em>A remark or statement that is trite or overused, lacking in originality</em></li>
+<li id="Plodding"><a href="gre-short-passage.html#Plodding"><b>Plodding</b></a>: <em>Moving or proceeding slowly and steadily, often without excitement</em></li>
+<li id="Ploy"><a href="gre-short-passage.html#Ploy"><b>Ploy</b></a>: <em>A clever or deceitful tactic or maneuver used to achieve a goal</em></li>
+<li id="Plucky"><a href="gre-short-passage.html#Plucky"><b>Plucky</b></a>: <em>Having courage or determination in difficult situations</em></li>
+<li id="Poignant"><a href="gre-short-passage.html#Poignant"><b>Poignant</b></a>: <em>Evoking a strong feeling of sadness, pity, or regret</em></li>
+<li id="Polemic"><a href="gre-short-passage.html#Polemic"><b>Polemic</b></a>: <em>A strong verbal or written attack on someone or something</em></li>
+<li id="Pollyannaish"><a href="gre-short-passage.html#Pollyannaish"><b>Pollyannaish</b></a>: <em>Overly optimistic or excessively positive, often unrealistically so</em></li>
+<li id="Ponderous"><a href="gre-short-passage.html#Ponderous"><b>Ponderous</b></a>: <em>Slow, heavy, or clumsy; often referring to writing or speech that is overly serious or dull</em></li>
+<li id="Pontificate"><a href="gre-short-passage.html#Pontificate"><b>Pontificate</b></a>: <em>To speak in a pompous or self-important manner</em></li>
+<li id="Portentous"><a href="gre-short-passage.html#Portentous"><b>Portentous</b></a>: <em>Having a foreboding or ominous quality; something that signifies a warning or indication</em></li>
+<li id="Posit"><a href="gre-short-passage.html#Posit"><b>Posit</b></a>: <em>To assume or assert something as a fact, often as the basis for an argument</em></li>
+<li id="Powwow"><a href="gre-short-passage.html#Powwow"><b>Powwow</b></a>: <em>A meeting or conference, often for discussion or decision-making</em></li>
+<li id="Pragmatic"><a href="gre-short-passage.html#Pragmatic"><b>Pragmatic</b></a>: <em>Practical and focused on actual results rather than theory or ideals</em></li>
+<li id="Precarious"><a href="gre-short-passage.html#Precarious"><b>Precarious</b></a>: <em>Unstable, uncertain, or dangerous</em></li>
+<li id="Precedent"><a href="gre-short-passage.html#Precedent"><b>Precedent</b></a>: <em>An earlier event or action that serves as an example or guide for future occurrences</em></li>
+<li id="Precipitate"><a href="gre-short-passage.html#Precipitate"><b>Precipitate</b></a>: <em>To cause something to happen suddenly or prematurely</em></li>
+<li id="Precipitate"><a href="gre-short-passage.html#Precipitate"><b>Precipitate</b></a>: <em>To move or act with suddenness or urgency, often with little thought</em></li>
+<li id="Precipitous"><a href="gre-short-passage.html#Precipitous"><b>Precipitous</b></a>: <em>Steep or abrupt; occurring suddenly with little warning</em></li>
+<li id="Preclude"><a href="gre-short-passage.html#Preclude"><b>Preclude</b></a>: <em>To prevent something from happening or make it impossible</em></li>
+<li id="Precocious"><a href="gre-short-passage.html#Precocious"><b>Precocious</b></a>: <em>Having developed certain abilities or talents at an earlier age than usual</em></li>
+<li id="Predilection"><a href="gre-short-passage.html#Predilection"><b>Predilection</b></a>: <em>A preference or liking for something</em></li>
+<li id="Preempt"><a href="gre-short-passage.html#Preempt"><b>Preempt</b></a>: <em>To take action in order to prevent an event from happening or to gain an advantage</em></li>
+<li id="Preemptive"><a href="gre-short-passage.html#Preemptive"><b>Preemptive</b></a>: <em>Intended to prevent or forestall a future action</em></li>
+<li id="Prescience"><a href="gre-short-passage.html#Prescience"><b>Prescience</b></a>: <em>Knowledge of events before they happen; foresight</em></li>
+<li id="Presentiment"><a href="gre-short-passage.html#Presentiment"><b>Presentiment</b></a>: <em>A feeling or intuition about a future event, often one that is unfavorable</em></li>
+<li id="Presumption"><a href="gre-short-passage.html#Presumption"><b>Presumption</b></a>: <em>An assumption or belief that something is true based on evidence or reasoning</em></li>
+<li id="Presumption"><a href="gre-short-passage.html#Presumption"><b>Presumption</b></a>: <em>The act of assuming something is true without proof</em></li>
+<li id="Presumptuous"><a href="gre-short-passage.html#Presumptuous"><b>Presumptuous</b></a>: <em>Taking liberties or making assumptions in a way that is arrogant or overconfident</em></li>
+<li id="Prevail"><a href="gre-short-passage.html#Prevail"><b>Prevail</b></a>: <em>To be victorious or dominant in a particular situation</em></li>
+<li id="Prevail"><a href="gre-short-passage.html#Prevail"><b>Prevail</b></a>: <em>To prove more powerful or influential in a conflict or situation</em></li>
+<li id="Prevaricate"><a href="gre-short-passage.html#Prevaricate"><b>Prevaricate</b></a>: <em>To speak or act in an evasive or dishonest way to avoid the truth</em></li>
+<li id="Primacy"><a href="gre-short-passage.html#Primacy"><b>Primacy</b></a>: <em>The state of being the most important or influential</em></li>
+<li id="Pristine"><a href="gre-short-passage.html#Pristine"><b>Pristine</b></a>: <em>In an original, pure, or unspoiled condition</em></li>
+<li id="Pristine"><a href="gre-short-passage.html#Pristine"><b>Pristine</b></a>: <em>Clean and fresh as if new; unaffected by human influence</em></li>
+<li id="Probity"><a href="gre-short-passage.html#Probity"><b>Probity</b></a>: <em>Strong moral principles, integrity, and honesty</em></li>
+<li id="Prodigal"><a href="gre-short-passage.html#Prodigal"><b>Prodigal</b></a>: <em>Wastefully extravagant, especially with money</em></li>
+<li id="Prodigious"><a href="gre-short-passage.html#Prodigious"><b>Prodigious</b></a>: <em>Impressively large or great in extent, size, or degree</em></li>
+<li id="Profligate"><a href="gre-short-passage.html#Profligate"><b>Profligate</b></a>: <em>Recklessly extravagant or wasteful in the use of resources</em></li>
+<li id="Profligate"><a href="gre-short-passage.html#Profligate"><b>Profligate</b></a>: <em>Excessively wasteful or immoral in behavior</em></li>
+<li id="Profuse"><a href="gre-short-passage.html#Profuse"><b>Profuse</b></a>: <em>Produced or existing in large amounts</em></li>
+<li id="Profusion"><a href="gre-short-passage.html#Profusion"><b>Profusion</b></a>: <em>An abundance or large quantity of something</em></li>
+<li id="Prognostication"><a href="gre-short-passage.html#Prognostication"><b>Prognostication</b></a>: <em>A prediction or forecast, especially about the future</em></li>
+<li id="Prolific"><a href="gre-short-passage.html#Prolific"><b>Prolific</b></a>: <em>Producing a large number of works, results, or offspring</em></li>
+<li id="Prolixity"><a href="gre-short-passage.html#Prolixity"><b>Prolixity</b></a>: <em>The quality of being excessively long-winded or wordy</em></li>
+<li id="Promulgate"><a href="gre-short-passage.html#Promulgate"><b>Promulgate</b></a>: <em>To make an idea, belief, or law known and widely accepted</em></li>
+<li id="Propitiate"><a href="gre-short-passage.html#Propitiate"><b>Propitiate</b></a>: <em>To win or regain the favor of someone by pleasing them</em></li>
+<li id="Propitious"><a href="gre-short-passage.html#Propitious"><b>Propitious</b></a>: <em>Indicating a good chance of success; favorable</em></li>
+<li id="Proponent"><a href="gre-short-passage.html#Proponent"><b>Proponent</b></a>: <em>A person who advocates for or supports a particular idea or cause</em></li>
+<li id="Prosaic"><a href="gre-short-passage.html#Prosaic"><b>Prosaic</b></a>: <em>Lacking imagination or creativity; dull and ordinary</em></li>
+<li id="Proscribe"><a href="gre-short-passage.html#Proscribe"><b>Proscribe</b></a>: <em>To forbid or prohibit, especially by law or authority</em></li>
+<li id="Proselytize"><a href="gre-short-passage.html#Proselytize"><b>Proselytize</b></a>: <em>To attempt to convert someone to a particular belief, religion, or opinion</em></li>
+<li id="Protean"><a href="gre-short-passage.html#Protean"><b>Protean</b></a>: <em>Readily changing form or character; versatile</em></li>
+<li id="Provident"><a href="gre-short-passage.html#Provident"><b>Provident</b></a>: <em>Preparing for the future; prudent or thrifty</em></li>
+<li id="Provincial"><a href="gre-short-passage.html#Provincial"><b>Provincial</b></a>: <em>Limited in scope; narrow-minded; relating to a specific region or province</em></li>
+<li id="Provisional"><a href="gre-short-passage.html#Provisional"><b>Provisional</b></a>: <em>Temporary or conditional, not permanent</em></li>
+<li id="Puerile"><a href="gre-short-passage.html#Puerile"><b>Puerile</b></a>: <em>Childish or immature in a way that is inappropriate or trivial</em></li>
+<li id="Pugnacious"><a href="gre-short-passage.html#Pugnacious"><b>Pugnacious</b></a>: <em>Eager or quick to fight or argue</em></li>
+<li id="Puissant"><a href="gre-short-passage.html#Puissant"><b>Puissant</b></a>: <em>Powerful or mighty</em></li>
+<li id="Punctilious"><a href="gre-short-passage.html#Punctilious"><b>Punctilious</b></a>: <em>Showing great attention to detail or correct behavior</em></li>
+<li id="Pundit"><a href="gre-short-passage.html#Pundit"><b>Pundit</b></a>: <em>An expert or learned person, especially one who is frequently consulted</em></li>
+<li id="Pyrrhic"><a href="gre-short-passage.html#Pyrrhic"><b>Pyrrhic</b></a>: <em>Achieved at too great a cost, often one that outweighs the victory itself</em></li>
+
 <h2 id="Q">Q</h2>
+
+<li id="Quail"><a href="gre-short-passage.html#Quail"><b>Quail</b></a>: <em>To show fear or apprehension, to shrink or cower</em></li>
+<li id="Qualify"><a href="gre-short-passage.html#Qualify"><b>Qualify</b></a>: <em>To limit or modify in meaning, to meet the requirements or conditions</em></li>
+<li id="Qualify"><a href="gre-short-passage.html#Qualify"><b>Qualify</b></a>: <em>To meet certain criteria or to add to a statement to make it more specific</em></li>
+<li id="Qualm"><a href="gre-short-passage.html#Qualm"><b>Qualm</b></a>: <em>A feeling of doubt, uneasiness, or moral concern</em></li>
+<li id="Quandary"><a href="gre-short-passage.html#Quandary"><b>Quandary</b></a>: <em>A state of uncertainty or dilemma</em></li>
+<li id="Querulous"><a href="gre-short-passage.html#Querulous"><b>Querulous</b></a>: <em>Complaining or whining, often in a petulant or annoying way</em></li>
+<li id="Quip"><a href="gre-short-passage.html#Quip"><b>Quip</b></a>: <em>A witty remark or a clever, often sarcastic, comment</em></li>
+<li id="Quisling"><a href="gre-short-passage.html#Quisling"><b>Quisling</b></a>: <em>A traitor who collaborates with an enemy force occupying their country</em></li>
+<li id="Quixotic"><a href="gre-short-passage.html#Quixotic"><b>Quixotic</b></a>: <em>Exceedingly idealistic; unrealistic or impractical in pursuit of ideals</em></li>
+<li id="Quotidian"><a href="gre-short-passage.html#Quotidian"><b>Quotidian</b></a>: <em>Occurring daily; commonplace or ordinary</em></li>
+
 <h2 id="R">R</h2>
+
+<li id="Raconteur"><a href="gre-short-passage.html#Raconteur"><b>Raconteur</b></a>: <em>A person who tells stories or anecdotes in an entertaining way</em></li>
+<li id="Raffish"><a href="gre-short-passage.html#Raffish"><b>Raffish</b></a>: <em>Displaying a carefree or unconventional attitude, often in a way that is slightly disreputable</em></li>
+<li id="Raft"><a href="gre-short-passage.html#Raft"><b>Raft</b></a>: <em>A large number or collection of something</em></li>
+<li id="Raillery"><a href="gre-short-passage.html#Raillery"><b>Raillery</b></a>: <em>Good-natured, playful ridicule or banter</em></li>
+<li id="Rakish"><a href="gre-short-passage.html#Rakish"><b>Rakish</b></a>: <em>Having a dashing, jaunty, or slightly disreputable appearance</em></li>
+<li id="Rankle"><a href="gre-short-passage.html#Rankle"><b>Rankle</b></a>: <em>To cause persistent irritation or anger</em></li>
+<li id="Rapprochement"><a href="gre-short-passage.html#Rapprochement"><b>Rapprochement</b></a>: <em>The establishment or resumption of harmonious relations</em></li>
+<li id="Rarefied"><a href="gre-short-passage.html#Rarefied"><b>Rarefied</b></a>: <em>Concerned with a select or elite group; esoteric or refined</em></li>
+<li id="Rash"><a href="gre-short-passage.html#Rash"><b>Rash</b></a>: <em>Showing a lack of careful consideration of the possible consequences; reckless</em></li>
+<li id="Ravenous"><a href="gre-short-passage.html#Ravenous"><b>Ravenous</b></a>: <em>Extremely hungry or eager for something</em></li>
+<li id="Rebuke"><a href="gre-short-passage.html#Rebuke"><b>Rebuke</b></a>: <em>To criticize or reprimand someone sharply</em></li>
+<li id="Recapitulation"><a href="gre-short-passage.html#Recapitulation"><b>Recapitulation</b></a>: <em>A summary or restatement of the main points</em></li>
+<li id="Reconcile"><a href="gre-short-passage.html#Reconcile"><b>Reconcile</b></a>: <em>To restore friendly relations or resolve a dispute</em></li>
+<li id="Recondite"><a href="gre-short-passage.html#Recondite"><b>Recondite</b></a>: <em>Little known or obscure, especially pertaining to complex or scholarly knowledge</em></li>
+<li id="Recrimination"><a href="gre-short-passage.html#Recrimination"><b>Recrimination</b></a>: <em>An accusation made in response to an accusation, especially in a dispute</em></li>
+<li id="Recrudesce"><a href="gre-short-passage.html#Recrudesce"><b>Recrudesce</b></a>: <em>To break out or recur after a period of inactivity</em></li>
+<li id="Redoubtable"><a href="gre-short-passage.html#Redoubtable"><b>Redoubtable</b></a>: <em>Formidable, especially as an opponent</em></li>
+<li id="Redress"><a href="gre-short-passage.html#Redress"><b>Redress</b></a>: <em>To correct a wrong or provide compensation</em></li>
+<li id="Refractory"><a href="gre-short-passage.html#Refractory"><b>Refractory</b></a>: <em>Stubborn or resistant to authority or control</em></li>
+<li id="Refute"><a href="gre-short-passage.html#Refute"><b>Refute</b></a>: <em>To disprove or counter an argument or assertion</em></li>
+<li id="Relegate"><a href="gre-short-passage.html#Relegate"><b>Relegate</b></a>: <em>To assign or demote to a lower position or status</em></li>
+<li id="Remiss"><a href="gre-short-passage.html#Remiss"><b>Remiss</b></a>: <em>Negligent or careless in the performance of a duty</em></li>
+<li id="Remonstrate"><a href="gre-short-passage.html#Remonstrate"><b>Remonstrate</b></a>: <em>To protest or object strongly</em></li>
+<li id="Renege"><a href="gre-short-passage.html#Renege"><b>Renege</b></a>: <em>To go back on a promise or contract</em></li>
+<li id="Replete"><a href="gre-short-passage.html#Replete"><b>Replete</b></a>: <em>Filled or well-supplied with something</em></li>
+<li id="Reprisal"><a href="gre-short-passage.html#Reprisal"><b>Reprisal</b></a>: <em>An act of retaliation or revenge</em></li>
+<li id="Reproach"><a href="gre-short-passage.html#Reproach"><b>Reproach</b></a>: <em>To express disapproval or disappointment with someone or something</em></li>
+<li id="Reprobate"><a href="gre-short-passage.html#Reprobate"><b>Reprobate</b></a>: <em>Morally unprincipled or corrupt</em></li>
+<li id="Repudiate"><a href="gre-short-passage.html#Repudiate"><b>Repudiate</b></a>: <em>To reject or disown, especially formally or with conviction</em></li>
+<li id="Rescind"><a href="gre-short-passage.html#Rescind"><b>Rescind</b></a>: <em>To revoke, cancel, or repeal a decision, law, or contract</em></li>
+<li id="Reservation"><a href="gre-short-passage.html#Reservation"><b>Reservation</b></a>: <em>A doubt or concern, often about something not fully understood or agreed upon</em></li>
+<li id="Resignation"><a href="gre-short-passage.html#Resignation"><b>Resignation</b></a>: <em>The acceptance of something undesirable but inevitable; formal submission</em></li>
+<li id="Resolve"><a href="gre-short-passage.html#Resolve"><b>Resolve</b></a>: <em>To make a firm decision about something</em></li>
+<li id="Respite"><a href="gre-short-passage.html#Respite"><b>Respite</b></a>: <em>A short period of rest or relief from something difficult or unpleasant</em></li>
+<li id="Restive"><a href="gre-short-passage.html#Restive"><b>Restive</b></a>: <em>Restless, difficult to control, or impatient under restriction</em></li>
+<li id="Resurgent"><a href="gre-short-passage.html#Resurgent"><b>Resurgent</b></a>: <em>Rising or reviving after a period of inactivity or decline</em></li>
+<li id="Reticent"><a href="gre-short-passage.html#Reticent"><b>Reticent</b></a>: <em>Reluctant to speak or express one's thoughts</em></li>
+<li id="Retiring"><a href="gre-short-passage.html#Retiring"><b>Retiring</b></a>: <em>Shy, reserved, or inclined to avoid social contact</em></li>
+<li id="Retract"><a href="gre-short-passage.html#Retract"><b>Retract</b></a>: <em>To withdraw or take back something previously stated or committed to</em></li>
+<li id="Reverent"><a href="gre-short-passage.html#Reverent"><b>Reverent</b></a>: <em>Showing deep respect or veneration</em></li>
+<li id="Ribald"><a href="gre-short-passage.html#Ribald"><b>Ribald</b></a>: <em>Offensive, coarse, or vulgar in speech or behavior</em></li>
+<li id="Rile"><a href="gre-short-passage.html#Rile"><b>Rile</b></a>: <em>To irritate or provoke someone, especially to anger</em></li>
+<li id="Robust"><a href="gre-short-passage.html#Robust"><b>Robust</b></a>: <em>Strong, healthy, or able to withstand difficult conditions</em></li>
+<li id="Row"><a href="gre-short-passage.html#Row"><b>Row</b></a>: <em>A serious dispute or argument; a line or tier of things or people</em></li>
+<li id="Rudimentary"><a href="gre-short-passage.html#Rudimentary"><b>Rudimentary</b></a>: <em>Basic, primitive, or in an early stage of development</em></li>
+<li id="Rustic"><a href="gre-short-passage.html#Rustic"><b>Rustic</b></a>: <em>Relating to the countryside; simple, rural, or unsophisticated</em></li>
+
 <h2 id="S">S</h2>
+
+<li id="Sagacious"><a href="gre-short-passage.html#Sagacious"><b>Sagacious</b></a>: <em>Having keen insight and sound judgment; wise</em></li>
+<li id="Sanctimonious"><a href="gre-short-passage.html#Sanctimonious"><b>Sanctimonious</b></a>: <em>Making a show of being morally superior to others; self-righteous</em></li>
+<li id="Sanction"><a href="gre-short-passage.html#Sanction"><b>Sanction</b></a>: <em>A penalty or punishment for disobedience; or, to approve or authorize something</em></li>
+<li id="Sanction"><a href="gre-short-passage.html#Sanction"><b>Sanction</b></a>: <em>A formal authorization or approval, or the imposition of a penalty</em></li>
+<li id="Sangfroid"><a href="gre-short-passage.html#Sangfroid"><b>Sangfroid</b></a>: <em>Calmness or composure, especially under stress or pressure</em></li>
+<li id="Sanguine"><a href="gre-short-passage.html#Sanguine"><b>Sanguine</b></a>: <em>Optimistic or positive, especially in a difficult situation</em></li>
+<li id="Sardonic"><a href="gre-short-passage.html#Sardonic"><b>Sardonic</b></a>: <em>Mocking, cynical, or scornfully derisive</em></li>
+<li id="Sartorial"><a href="gre-short-passage.html#Sartorial"><b>Sartorial</b></a>: <em>Relating to clothing or style of dress</em></li>
+<li id="Saturnine"><a href="gre-short-passage.html#Saturnine"><b>Saturnine</b></a>: <em>Gloomy, morose, or sullen in temperament</em></li>
+<li id="Savvy"><a href="gre-short-passage.html#Savvy"><b>Savvy</b></a>: <em>Shrewdness, practical knowledge, or understanding</em></li>
+<li id="Savvy"><a href="gre-short-passage.html#Savvy"><b>Savvy</b></a>: <em>Practical ability or intelligence</em></li>
+<li id="Savvy"><a href="gre-short-passage.html#Savvy"><b>Savvy</b></a>: <em>Knowledgeable or perceptive in understanding practical matters</em></li>
+<li id="Schadenfreude"><a href="gre-short-passage.html#Schadenfreude"><b>Schadenfreude</b></a>: <em>Taking pleasure in the misfortune of others</em></li>
+<li id="Scintillating"><a href="gre-short-passage.html#Scintillating"><b>Scintillating</b></a>: <em>Sparkling, shining, or brilliantly clever</em></li>
+<li id="Screed"><a href="gre-short-passage.html#Screed"><b>Screed</b></a>: <em>A long, often tedious or boring written piece</em></li>
+<li id="Scrupulous"><a href="gre-short-passage.html#Scrupulous"><b>Scrupulous</b></a>: <em>Having strong moral principles, or being diligent and thorough in one's work</em></li>
+<li id="Scrupulous"><a href="gre-short-passage.html#Scrupulous"><b>Scrupulous</b></a>: <em>Very careful to do things correctly, especially in terms of ethics</em></li>
+<li id="Sedulous"><a href="gre-short-passage.html#Sedulous"><b>Sedulous</b></a>: <em>Showing dedication and diligence in work or effort</em></li>
+<li id="Semblance"><a href="gre-short-passage.html#Semblance"><b>Semblance</b></a>: <em>An outward appearance or form, often one that is misleading</em></li>
+<li id="Sententious"><a href="gre-short-passage.html#Sententious"><b>Sententious</b></a>: <em>Expressing a moralistic or pompous attitude, often in a self-righteous manner</em></li>
+<li id="Sentimental"><a href="gre-short-passage.html#Sentimental"><b>Sentimental</b></a>: <em>Having or displaying tender feelings, often excessively so</em></li>
+<li id="Serendipity"><a href="gre-short-passage.html#Serendipity"><b>Serendipity</b></a>: <em>The occurrence of events by chance in a happy or beneficial way</em></li>
+<li id="Serene"><a href="gre-short-passage.html#Serene"><b>Serene</b></a>: <em>Calm, peaceful, and untroubled</em></li>
+<li id="Simulacrum"><a href="gre-short-passage.html#Simulacrum"><b>Simulacrum</b></a>: <em>An image or representation of something; a superficial or insubstantial likeness</em></li>
+<li id="Simulacrum"><a href="gre-short-passage.html#Simulacrum"><b>Simulacrum</b></a>: <em>An imitation or representation of something</em></li>
+<li id="Sinecure"><a href="gre-short-passage.html#Sinecure"><b>Sinecure</b></a>: <em>A job or position that requires little or no work, often with a good salary</em></li>
+<li id="Slapdash"><a href="gre-short-passage.html#Slapdash"><b>Slapdash</b></a>: <em>Done in a hasty or careless manner</em></li>
+<li id="Smattering"><a href="gre-short-passage.html#Smattering"><b>Smattering</b></a>: <em>A small amount or superficial knowledge of something</em></li>
+<li id="Smug"><a href="gre-short-passage.html#Smug"><b>Smug</b></a>: <em>Excessively self-satisfied, often in a way that is irritating to others</em></li>
+<li id="Snide"><a href="gre-short-passage.html#Snide"><b>Snide</b></a>: <em>Indirectly mocking or derogatory in a way that is often unpleasant</em></li>
+<li id="Snub"><a href="gre-short-passage.html#Snub"><b>Snub</b></a>: <em>To treat someone with disdain or a lack of respect</em></li>
+<li id="Solecism"><a href="gre-short-passage.html#Solecism"><b>Solecism</b></a>: <em>A grammatical mistake or a breach of good manners or social etiquette</em></li>
+
+
 <h2 id="T">T</h2>
 <h2 id="U">U</h2>
 <h2 id="V">V</h2>
