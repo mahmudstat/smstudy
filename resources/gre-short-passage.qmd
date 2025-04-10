@@ -1,15 +1,19 @@
 ---
-title: "GRE Words"
+title: "GRE Short Passage"
 format:
   html:
     css: tooltip.css
 ---
 
-*Hover over the words to see the corresponding meaning.*
+The passages are meant to allow you practice the GRE words after learning them. They will help you recall the meaning.
+
+*Click on the word to see its meaning*
 
 ## Day 01
 
 ### Set 01
+
+<a id="Desiccated" href="gre-word-list.html#Desiccated">Desiccated</a>, Proselytize, Pellucid, Gumption, Bridle
 
 **[Desiccated](## "Thoroughly dried out; lacking moisture"), [Proselytize](## "To attempt to convert someone to a particular belief or faith"), [Pellucid](## "Clear, transparent, or easily understood"), [Gumption](## "Courage, initiative, or resourcefulness"), [Bridle](## "To restrain or control, especially in a way that limits freedom")**
 
@@ -89,6 +93,8 @@ The senator’s downfall was precipitated by allegations of prolonged **debauche
 The documentary offered a **poignant** look at communities displaced by industrial expansion, its emotional depth accentuated by a **trenchant** critique of unchecked corporate power. While the film advocated for an **egalitarian** approach to resource distribution, its message was delivered with such **ebullient** energy that even the most skeptical viewers were drawn in. Sadly, much of the initial momentum for reform would soon **dissipate**, lost in bureaucratic delays and squandered opportunities for real change.
 
 ### Set 03
+
+<a id="Enamored" href="gre-word-list.html#Enamored">Enamored</a>
 
 **[Enamored](## "Filled with love or admiration for someone or something"), [Cataclysm](## "A large-scale and violent event, often causing great destruction or change"), [Loath](## "Reluctant or unwilling to do something; strongly opposed"), [Frivolous](## "Not having serious value or importance; carefree or silly"), [Estimable](## "Worthy of respect or admiration; deserving of esteem")**
 
