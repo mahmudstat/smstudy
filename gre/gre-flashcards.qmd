@@ -1,0 +1,283 @@
+---
+title: "GRE Vocabulary Flashcards"
+format: html
+---
+
+## GRE Vocabulary Practice
+
+```{js}
+// Load the CSV data first using Quarto's file handling
+const words = [];
+const response = await fetch('./gre_words.csv');
+const csvData = await response.text();
+
+// Parse CSV data
+const lines = csvData.split('\n');
+const headers = lines[0].split(',');
+
+for (let i = 1; i < lines.length; i++) {
+  if (lines[i].trim() === '') continue;
+  const values = lines[i].split(',');
+  words.push({
+    word: values[0].trim(),
+    definition: values[1].trim()
+  });
+}
+
+// Now create the flashcards
+document.addEventListener('DOMContentLoaded', function() {
+  // Configuration
+  const WORDS_PER_CARD = 10;
+  const TOTAL_CARDS = Math.ceil(words.length / WORDS_PER_CARD);
+
+  // State
+  let currentCard = 1;
+  let correctAnswers = 0;
+  let incorrectAnswers = 0;
+  let answeredQuestions = [];
+  let selectedOptions = [];
+
+  // DOM Elements
+  const cardSelect = document.getElementById('card-select');
+  const flashcardsContainer = document.getElementById('flashcards-container');
+  const correctCountEl = document.getElementById('correct-count');
+  const incorrectCountEl = document.getElementById('incorrect-count');
+  const resetBtn = document.getElementById('reset-btn');
+
+  // Initialize the card selector dropdown
+  function initCardSelector() {
+    cardSelect.innerHTML = '';
+    for (let i = 1; i <= TOTAL_CARDS; i++) {
+      const start = (i - 1) * WORDS_PER_CARD + 1;
+      const end = Math.min(i * WORDS_PER_CARD, words.length);
+      const option = document.createElement('option');
+      option.value = i;
+      option.textContent = `Set ${i} (Words ${start}-${end})`;
+      cardSelect.appendChild(option);
+    }
+  }
+
+  // Reset state for current card
+  function resetCardState() {
+    const wordsInCard = getWordsForCard(currentCard).length;
+    answeredQuestions = Array(wordsInCard).fill(false);
+    selectedOptions = Array(wordsInCard).fill(null);
+  }
+
+  // Get words for a specific card
+  function getWordsForCard(cardNumber) {
+    const startIdx = (cardNumber - 1) * WORDS_PER_CARD;
+    const endIdx = startIdx + WORDS_PER_CARD;
+    return words.slice(startIdx, endIdx);
+  }
+
+  // Generate random options (1 correct + 3 incorrect)
+  function generateOptions(correctDefinition) {
+    // Get all definitions except the correct one
+    const otherDefinitions = words
+      .map(w => w.definition)
+      .filter(def => def !== correctDefinition);
+
+    // Shuffle and pick 3
+    const shuffled = [...otherDefinitions].sort(() => 0.5 - Math.random());
+    const incorrectOptions = shuffled.slice(0, 3);
+
+    // Combine with correct answer and shuffle
+    const options = [correctDefinition, ...incorrectOptions];
+    return options.sort(() => 0.5 - Math.random());
+  }
+
+  // Render flashcards for the current card
+  function renderFlashcards() {
+    flashcardsContainer.innerHTML = '';
+    const currentWords = getWordsForCard(currentCard);
+
+    currentWords.forEach((wordObj, index) => {
+      const cardEl = document.createElement('div');
+      cardEl.className = 'flashcard';
+
+      const wordEl = document.createElement('div');
+      wordEl.className = 'word';
+      wordEl.textContent = wordObj.word;
+
+      const optionsEl = document.createElement('div');
+      optionsEl.className = 'options';
+
+      const options = generateOptions(wordObj.definition);
+      options.forEach(option => {
+        const optionEl = document.createElement('div');
+        optionEl.className = 'option';
+
+        if (answeredQuestions[index]) {
+          if (option === wordObj.definition) {
+            optionEl.classList.add('correct');
+          } else if (selectedOptions[index] === option) {
+            optionEl.classList.add('incorrect');
+          }
+        } else if (selectedOptions[index] === option) {
+          optionEl.classList.add('selected');
+        }
+
+        const inputEl = document.createElement('input');
+        inputEl.type = 'radio';
+        inputEl.name = `word-${currentCard}-${index}`;
+        inputEl.disabled = answeredQuestions[index];
+
+        optionEl.appendChild(inputEl);
+        optionEl.appendChild(document.createTextNode(option));
+
+        if (!answeredQuestions[index]) {
+          optionEl.addEventListener('click', () => selectOption(index, option, wordObj.definition));
+        }
+
+        optionsEl.appendChild(optionEl);
+      });
+
+      cardEl.appendChild(wordEl);
+      cardEl.appendChild(optionsEl);
+      flashcardsContainer.appendChild(cardEl);
+    });
+  }
+
+  // Handle option selection
+  function selectOption(wordIndex, selectedOption, correctDefinition) {
+    if (answeredQuestions[wordIndex]) return;
+
+    selectedOptions[wordIndex] = selectedOption;
+    answeredQuestions[wordIndex] = true;
+
+    if (selectedOption === correctDefinition) {
+      correctAnswers++;
+    } else {
+      incorrectAnswers++;
+    }
+
+    updateScore();
+    renderFlashcards();
+  }
+
+  // Update score display
+  function updateScore() {
+    correctCountEl.textContent = correctAnswers;
+    incorrectCountEl.textContent = incorrectAnswers;
+  }
+
+  // Reset all scores and current card
+  function resetAll() {
+    correctAnswers = 0;
+    incorrectAnswers = 0;
+    resetCardState();
+    updateScore();
+    renderFlashcards();
+  }
+
+  // Initialize
+  initCardSelector();
+  resetCardState();
+  renderFlashcards();
+
+  // Event listeners
+  cardSelect.addEventListener('change', (e) => {
+    currentCard = parseInt(e.target.value);
+    resetCardState();
+    renderFlashcards();
+  });
+
+  resetBtn.addEventListener('click', resetAll);
+});
+
+<div class="flashcard-container">
+  <div class="controls">
+    <select id="card-select" class="form-select">
+      <option value="">Loading flashcards...</option>
+    </select>
+    <button id="reset-btn" class="btn btn-secondary">Reset Score</button>
+    <div class="score">Score: <span id="correct-count">0</span> correct, <span id="incorrect-count">0</span> incorrect</div>
+  </div>
+
+  <div id="flashcards-container" class="flashcards-grid"></div>
+</div>
+
+<style>
+.flashcard-container {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: system-ui, sans-serif;
+}
+
+.controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.score {
+  margin-left: auto;
+  font-weight: bold;
+}
+
+.flashcards-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.flashcard {
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  padding: 1.25rem;
+  background-color: #f8f9fa;
+  transition: all 0.2s;
+}
+
+.word {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+  color: #212529;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+}
+
+.option {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  background-color: #e9ecef;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.option:hover {
+  background-color: #dee2e6;
+}
+
+.option.selected {
+  background-color: #ced4da;
+}
+
+.option.correct {
+  background-color: #d1e7dd;
+  color: #0f5132;
+}
+
+.option.incorrect {
+  background-color: #f8d7da;
+  color: #842029;
+}
+
+.option input {
+  margin-right: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .flashcards-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+</style>

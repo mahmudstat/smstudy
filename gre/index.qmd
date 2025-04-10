@@ -1,7 +1,7 @@
 ---
-title: "GRE"
+title: "GRE Prep"
 ---
 
-This is a Quarto website.
+Study for GRE for free. Exlore GRE words, practcie them through short passage, take quizes, and what not!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<img src="img/study.jpeg" alt="GRE Prep Stat Mania" width="400"/>

@@ -1,0 +1,9 @@
+There are 1046 words in the csv (gre_words.csv), where the columns are word, definition. We'll create a javascript based flashcard with each 10 words. So first card: 1-10 words, 2nd: 11-20 etc. the last 1041-1056 (6 only), totalling 105 cards.
+
+The page (.qmd) will be a part of a quarto website (rendered on terminal)
+
+On top of the page user can select from dropdown Flashcard 1,2,..105.
+
+gre-flashcards.qmd file will contain the code to fetch contents from the csv as per dropdown click. The card will have 4 options. The correct option will be taken from the definition column. other options will be taken randomly from other definitions.
+
+After user clicks each word, the score as well as which is correct/wrong will be shown.

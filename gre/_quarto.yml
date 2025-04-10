@@ -5,6 +5,10 @@ project:
 website:
   title: "GRE Prep"
   navbar:
+    background: light
+    logo: ../assets/images/logo.png
+    logo-alt: "Stat Mania logo."
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -12,6 +16,8 @@ website:
         text: Word List
       - href: gre-short-passage.qmd
         text: Passages
+      - text: "Flashcards"
+        href: gre-flashcards.qmd
 
 format:
   html:
