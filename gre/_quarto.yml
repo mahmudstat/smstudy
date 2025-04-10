@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "GRE Prep"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: gre-word-list.qmd
+        text: Word List
+      - href: gre-short-passage.qmd
+        text: Passages
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
