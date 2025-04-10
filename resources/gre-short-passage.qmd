@@ -107,7 +107,7 @@ Infelicitous, row, adjudicate, raillery, halcyon
 
 In the midst of the **row** between the two factions, the council convened to **adjudicate** the matter. The dispute, which had begun with **infelicitous** remarks, quickly escalated into heated arguments. Though the atmosphere was initially charged with tension, a few moments of **raillery** from an onlooker lightened the mood, reminding everyone of the more peaceful days, or the **halcyon** period, when such disagreements were rare. However, the council’s task remained clear: to restore order and resolve the conflict without further rancor.
 
-## Set 05
+## Passage 05
 
 <a id="Demonstrative" href="gre-word-list.html#Demonstrative">Demonstrative</a>,
 <a id="Hoodwink" href="gre-word-list.html#Hoodwink">Hoodwink</a>,
@@ -116,4 +116,6 @@ In the midst of the **row** between the two factions, the council convened to **
 <a id="FlagWane" href="gre-word-list.html#FlagWane">Flag (Wane)</a>
 
 
-The professor was **demonstrative** in his explanations, eager to clarify every concept, but some students still felt **hoodwinked** by the overly complex jargon. The **eponym** of the theory, a celebrated mathematician, would likely have disagreed with the **bastardization** of his original ideas. As the debate continued, it became clear that the excitement surrounding the theory had begun to **flag**, much like the interest in the subject itself.
+The professor was <a id="Demonstrative" href="gre-word-list.html#Demonstrative">demonstrative</a> in his explanations, eager to clarify every concept, but some students still felt <a id="Hoodwink" href="gre-word-list.html#Hoodwink">hoodwinked</a> by the overly complex jargon. The <a id="Eponym" href="gre-word-list.html#Eponym">eponym</a> of the theory, a celebrated mathematician, would likely have disagreed with the <a id="Bastardization" href="gre-word-list.html#Bastardization">bastardization</a> of his original ideas. As the debate continued, it became clear that the excitement surrounding the theory had begun to <a id="Flag" href="gre-word-list.html#Flag">flag</a>, much like the interest in the subject itself.
+
+
