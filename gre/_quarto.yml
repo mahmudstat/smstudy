@@ -16,6 +16,8 @@ website:
         text: Word List
       - href: gre-short-passage.qmd
         text: Passages
+      - href: stories.qmd
+        text: Stories
       - text: "Flashcards"
         href: gre-flashcards.qmd
   sidebar:
@@ -30,6 +32,9 @@ website:
             href: gre-word-list.qmd
           - text: Passages
             href: gre-short-passage.qmd
+          - text: Stories
+            href: stories.qmd
+
       - section: "Quant"
         contents:
           - text: Data Interpretation
