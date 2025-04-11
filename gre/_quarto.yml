@@ -18,10 +18,25 @@ website:
         text: Passages
       - text: "Flashcards"
         href: gre-flashcards.qmd
-
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Verbal"
+        contents:
+          - text: Word List
+            href: gre-word-list.qmd
+          - text: Passages
+            href: gre-short-passage.qmd
+      - section: "Quant"
+        contents:
+          - text: Data Interpretation
+            href: gre-quant-data.qmd
 format:
   html:
-    theme: cyborg
+    theme: literal
     css: styles.css
     toc: true
 
