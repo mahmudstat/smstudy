@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -122,33 +122,28 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./stories.html">Stories</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home</a></li><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./stories.html">Stories</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Home</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
  <span class="menu-text">Verbal</span></a>
@@ -156,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gre-word-list.html" class="sidebar-item-text sidebar-link">
@@ -177,21 +172,23 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
-        <li class="sidebar-item sidebar-item-section">
+          <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
  <span class="menu-text">Quant</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gre-quant-data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Interpretation</span></a>
   </div>
 </li>
+      </ul>
+  </li>
       </ul>
   </li>
     </ul>
@@ -206,6 +203,13 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#stories" id="toc-stories" class="nav-link active" data-scroll-target="#stories">Stories</a>
   <ul class="collapse">
+  <li><a href="#breaking-the-grey" id="toc-breaking-the-grey" class="nav-link" data-scroll-target="#breaking-the-grey">Breaking the Grey</a>
+  <ul class="collapse">
+  <li><a href="#the-unsettling-stroll" id="toc-the-unsettling-stroll" class="nav-link" data-scroll-target="#the-unsettling-stroll">The Unsettling Stroll</a></li>
+  <li><a href="#hospital-or-something-else" id="toc-hospital-or-something-else" class="nav-link" data-scroll-target="#hospital-or-something-else">Hospital or Something Else?</a></li>
+  <li><a href="#the-cracks-in-reality" id="toc-the-cracks-in-reality" class="nav-link" data-scroll-target="#the-cracks-in-reality">The Cracks in Reality</a></li>
+  <li><a href="#the-desperate-escape" id="toc-the-desperate-escape" class="nav-link" data-scroll-target="#the-desperate-escape">The Desperate Escape</a></li>
+  </ul></li>
   <li><a href="#the-shift" id="toc-the-shift" class="nav-link" data-scroll-target="#the-shift">The Shift</a></li>
   </ul></li>
   </ul>
@@ -219,51 +223,105 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="stories" class="level1">
 <h1>Stories</h1>
+<section id="breaking-the-grey" class="level2">
+<h2 class="anchored" data-anchor-id="breaking-the-grey">Breaking the Grey</h2>
+<section id="the-unsettling-stroll" class="level3">
+<h3 class="anchored" data-anchor-id="the-unsettling-stroll">The Unsettling Stroll</h3>
+<p>The grinding of gravel under Elias’s worn boots was the only constant in his otherwise unremarkable afternoon stroll. The late spring sun cast long shadows, gregariously painting the familiar park benches and meticulously manicured flowerbeds in hues of orange and purple. He hummed a tuneless melody, lost in the gradual rhythm of his steps. Then, a root, hidden beneath a carpet of fallen leaves, grievously snagged his foot.</p>
+<p>He stumbled, a sharp pain shooting through his ankle with graphic intensity. The world tilted, the sky cartwheeled in a giddy spin, and then… nothing.</p>
+</section>
+<section id="hospital-or-something-else" class="level3">
+<h3 class="anchored" data-anchor-id="hospital-or-something-else">Hospital or Something Else?</h3>
+<p>Elias awoke to a sterile white light that was gleaming softly. He lay on a firm, contoured surface, feeling a general sense of disorientation. Above him, a smooth, featureless ceiling stretched into an indistinct distance, creating a grand but unsettling emptiness. This must be a hospital, he gravely thought, the genuine smell of antiseptic filling the air.</p>
+<p>A soft hiss broke the silence, a gentle intrusion. A section of the wall beside him slid open, revealing two figures clad in identical pale blue uniforms, their appearance quite gaunt. Doctors, he assumed. Their faces were calm, almost serene, displaying a grim placidity.</p>
+<p>“Subject 749 is awake,” one of them stated, their voice a soothing monotone, possessing a guttural quality.</p>
+<p>The other approached, holding a small device that was glowing faintly. “Welcome back, Elias. You experienced a minor incident. You are perfectly safe now, under our guiding care.”</p>
+<p>Elias tried to sit up, but a gentle pressure restrained him, a galling limitation. “Incident? What are you talking about, speaking in such gibberish? Where am I, in this grey room?”</p>
+<p>“You are in a recovery unit,” the first figure explained patiently, their tone glib and rehearsed. “Just resting. There’s no need for alarm, no great danger.”</p>
+<p>“There was a slight complication,” the second figure continued, their eyes never leaving the readings on their device, displaying a guarded focus. “We’re going to ensure you are comfortable. Just relax, remain gentle.”</p>
+<p>Before Elias could protest, a cool mist enveloped his face, a ghostly embrace. He felt a prickling sensation, and his eyelids grew heavy, a grave weariness descending. The soothing voice echoed in his fading consciousness, a gratuitous reassurance, “Everything is alright, Elias. You’ll be back to your normal routine soon, in your genuine environment.”</p>
+<p>He blinked. The familiar dappled sunlight filtered through the leaves above him, a golden canopy. He was back on the park path, the faint ache in his ankle a lingering reminder of his fall, a genuine twinge. He shook his head, dismissing the sterile room as a strange, vivid dream induced by medication, a grotesque hallucination. A robin chirped nearby with a gay melody, and the world felt solid, granular and real. He continued his walk, the unsettling memory already receding into the background noise of his day, a generic unease.</p>
+<p>Recurring Admissions and Growing Suspicion Days turned into weeks, a glacial passage of time. Elias settled back into his routine: his small apartment, his job as a data analyst, the occasional evening stroll in the park, a gratifying normalcy. Life was predictable, comfortable, almost gregarious in its familiarity.</p>
+<p>Then, one Tuesday morning, a searing pain lanced through his head, a grievous assault. The office around him seemed to waver, the fluorescent lights flickering erratically, creating a garish display. He clutched his temples, a wave of nausea washing over him with great intensity. The edges of his vision blurred, and the familiar hum of the computers faded into a distant drone, a ghostly murmur.</p>
+<p>He awoke again to the sterile white light, the smooth ceiling, the hushed voices, a gloomy familiarity. The two figures in blue were there, their expressions unchanged, displaying a granite impassivity. Another hospital visit, he thought with a growing sense of dread.</p>
+<p>“Subject 749 has experienced another minor incident,” one said, making notes on a digital pad with great diligence.</p>
+<p>“We’ll run a diagnostic, a general check,” the other replied, approaching with the same device, its surface gleaming faintly. “Just a temporary disruption, Elias, a gradual return to normalcy. Nothing to worry about, no grave concern.”</p>
+<p>The explanation was the same, the soothing tone identical, a generic reassurance. Recovery unit. Complication. Resting. The cool mist descended, and Elias drifted back into unconsciousness, the unsettling déjà vu solidifying into a grisly premonition.</p>
+<p>He was back in his office, the headache a faint throb now, a gentle reminder. His colleagues were chatting about weekend plans with genuine enthusiasm, oblivious to his galling predicament. This feels wrong, he gravely considered.</p>
+<p>The cycle repeated a third time, a grim and relentless pattern, a jarring transition from the mundane reality of his life to the clinical sterility of the pod and back again, a ghastly repetition. Each time, the memory of the “hospital” faded less quickly, leaving behind a more persistent unease, a ghostly echo. This isn’t a hospital, he finally grasped with chilling certainty.</p>
+</section>
+<section id="the-cracks-in-reality" class="level3">
+<h3 class="anchored" data-anchor-id="the-cracks-in-reality">The Cracks in Reality</h3>
+<p>Life in the simulation continued, a grinding monotony. Elias had a conversation with his neighbor about the rising cost of groceries, a grueling topic that now felt strangely hollow. He spent his lunch break reading a news article about a local election, a generic piece that seemed to lack substance. He argued with a colleague about the merits of different programming languages with great fervor, but the passion felt forced, garbled. These moments, once unremarkable, now carried a palpable undercurrent of artificiality, a growing sense of unreality.</p>
+<p>Then, one afternoon at his desk, staring at lines of code, a fragmented image flashed in his mind, a glimmering recollection: the smooth white ceiling, the pale blue uniforms, a grey uniformity. It was fleeting, like a half-forgotten dream, a ghostly apparition, but this time, it lingered with great persistence. Over the next few days, more glimpses followed – the soft hiss of the wall panel, the cool mist on his face, the word “simulation” echoing in the silence, a grave pronouncement that finally made sense.</p>
+<p>The pieces began to connect, slowly, painfully, a gradual and agonizing assembly. The “incidents,” the brief blackouts, the unsettling déjà vu – they weren’t medical episodes, not genuine illnesses. They were real, in some other reality, a grim truth. A cold dread seeped into his heart, a growing despair. His world, the familiar comfort of his existence, felt suddenly fragile, a carefully constructed illusion, a gaudy facade.</p>
+<p>The realization hit him with the force of a physical blow, a grievous impact. He wasn’t living; he was being lived, a ghastly puppet in a digital play.</p>
+</section>
+<section id="the-desperate-escape" class="level3">
+<h3 class="anchored" data-anchor-id="the-desperate-escape">The Desperate Escape</h3>
+<p>Panic surged, a genuine terror. He had to get out, escape this gilded cage. He had to know what was real, the genuine truth beyond the grey veil.</p>
+<p>His first attempt was clumsy, desperate, a gross miscalculation. During his lunch break, instead of heading to the cafeteria, he tried to pry open a window in the stairwell with great force. The reinforced glass didn’t budge, and his frantic efforts only earned him strange looks from a passing colleague, a gawky curiosity that now seemed manufactured.</p>
+<p>His second attempt was more calculated, a gradual process of observation. He started observing his surroundings, looking for inconsistencies, for seams in the fabric of his reality, a grave scrutiny. He noticed that certain conversations felt repetitive, a generic loop, that background characters sometimes seemed to flicker at the edge of his vision, a ghostly shimmer.</p>
+<p>One evening, during his simulated walk in the park, he veered off the main path, pushing through dense bushes with great determination. A sharp, searing pain ripped through his body, as if an invisible barrier had slammed into him with grievous force. He cried out, collapsing onto the simulated grass, a groaning agony. The idyllic scenery around him glitched, pixelating momentarily before snapping back into focus, a garbled reality confirming his suspicions.</p>
+<p>He was back in the pod, the gleaming white surrounding him. The blue-clad figures were there, their usual calm replaced by a flicker of something he couldn’t quite decipher, a guarded unease.</p>
+<p>“Subject 749 is exhibiting erratic behavior,” one of them stated, their monotone tinged with a hint of concern, a genuine worry that felt strangely performative.</p>
+<p>“Return him to the simulation,” the other ordered curtly, their tone gravely serious. The cool mist descended, and Elias fought against the encroaching darkness with great resistance, a primal fear gripping him with grisly determination. This time, he wouldn’t forget.</p>
+<p>He awoke in the park again, the artificiality of it almost palpable, a glaring falseness. The memory of the pod was sharp, undeniable, a genuine recollection. He ran, a galloping flight from the illusion, pushing past the invisible barriers with agonizing pain, the simulated world tearing around him like paper.</p>
+<p>He stumbled, falling onto cold, hard concrete, the grey reality of the facility pressing in. At the end of the corridor, a door hissed open, revealing two figures in dark grey uniforms, their faces grim, displaying a granite resolve. They carried stun batons, gleaming menacingly.</p>
+<p>“Subject 749 has breached containment!” one of them barked, their voice guttural and urgent. “Secure him!”</p>
+<p>Elias scrambled to his feet, his mind racing with great speed. The simulation had been a prison, and this… this was another level of it, a grimmer confinement. He wouldn’t be trapped again, not after this grueling awakening.</p>
+<p>He bolted in the opposite direction, down the corridor with great speed. Alarms blared, their grating sound echoing behind him, mixed with the heavy footsteps of his pursuers. He reached a junction, two more corridors stretching into the unknown, each a grim possibility. He chose the left, adrenaline coursing through his veins with genuine urgency.</p>
+<p>He could hear their shouts, their heavy breathing drawing closer with growing intensity. He risked a glance over his shoulder. They were gaining on him, their gaunt figures relentless.</p>
+<p>He spotted a ventilation shaft high on the wall, a grey rectangle against the dull wall. It was a long shot, a gambling chance, but it was his only option. He grabbed a nearby metal cart and shoved it against the wall with a grumbling screech, clambering onto it with great effort. He reached for the vent, his fingers scrabbling for purchase on the sharp metal grate, a gritty texture under his fingertips.</p>
+<p>Just as he pried it open, a stun blast whizzed past his ear with a galling nearness. He squeezed through the narrow opening, the rough metal scraping against his skin with a grave discomfort. He pulled the grate back into place just as the guards reached the cart, their frustrated shouts echoing in the confined space, a guttural roar of anger.</p>
+<p>He crawled through the dark, dusty shaft, the sounds of pursuit fading behind him, a gradual descent into silence. He didn’t know where he was going, but anywhere was better than being trapped in their fabricated realities, their ghastly control. The air grew thick and stale, and the darkness pressed in on him, a gloom that felt suffocating.</p>
+<p>Finally, after what felt like an eternity, he saw a faint light ahead, a glimmer of hope in the oppressive darkness. He crawled faster, hope surging through him with a genuine force. The shaft opened into a larger room, filled with humming machinery and blinking lights, a giant mechanical heart. Technicians in white coats stared at him in shock, their gaping mouths forming silent questions.</p>
+<p>Before they could react, Elias leaped out of the vent, adrenaline fueling his desperate escape with great intensity. He had broken free from the simulation, but his fight for true freedom, beyond the grey walls of his prison, had just begun. The real world, it seemed, was just as much of a maze, a gnarled and dangerous labyrinth.</p>
+</section>
+</section>
 <section id="the-shift" class="level2">
 <h2 class="anchored" data-anchor-id="the-shift">The Shift</h2>
 <p>“Morning, Rafiq,” said Yusuf, tipping his cap. “Paper’s late again.”</p>
-<p><img style="float: right; border-radius: 10%;" width="40%" src="img/sim_reality.jpeg" alt="Simulated Reality"></p>
+<p>Simulated Reality</p>
 <p>Rafiq smirked. “Late? It’s always late. You ever notice that?”</p>
-<p>Yusuf shrugged. “Time’s a <strong>capricious</strong> thing, friend.”</p>
-<p>Their exchange was casual, <strong>banal</strong>, almost <strong>perfunctory</strong>, but something in Yusuf’s phrasing gave Rafiq pause. Time wasn’t just capricious—it was consistent to the point of <strong>monotony</strong>.</p>
-<p>He made his way to the archive building, where he worked cataloging old records. The place smelled like old wood and carbon, the kind of environment he found <strong>salutary</strong> for thinking.</p>
+<p>Yusuf shrugged. “Time’s a capricious thing, friend.”</p>
+<p>Their exchange was casual, banal, almost perfunctory, but something in Yusuf’s phrasing gave Rafiq pause. Time wasn’t just capricious—it was consistent to the point of monotony.</p>
+<p>He made his way to the archive building, where he worked cataloging old records. The place smelled like old wood and carbon, the kind of environment he found salutary for thinking.</p>
 <p>At his desk, he opened the logbook and began entering dates from the files. September 14, 2041. September 14, 2041. September 14—again.</p>
 <p>He flipped through twenty folders. All marked the same date. He frowned.</p>
 <p>“This can’t be right.”</p>
 <p>He approached his colleague, Imran, a taciturn man who prided himself on precision.</p>
 <p>“Imran, look at this. Every document I touched today has the same date.”</p>
-<p>Imran took the folders with <strong>affectation</strong>, leafing through them slowly. “System error. Ignore it.”</p>
+<p>Imran took the folders with affectation, leafing through them slowly. “System error. Ignore it.”</p>
 <p>“But they’re physical copies.”</p>
-<p>Imran raised an eyebrow, his tone almost <strong>didactic</strong>. “Rafiq, don’t get <strong>inundated</strong> by anomalies. Just keep working.”</p>
-<p>That night, Rafiq couldn’t sleep. His mind was a churn of irregularities. The archives, the rigid schedules, the way Yusuf always said the exact same three phrases in the same order each morning. He scribbled a flowchart, tracking events, reactions, phrases. Patterns emerged—<strong>disquieting</strong> ones.</p>
-<hr>
+<p>Imran raised an eyebrow, his tone almost didactic. “Rafiq, don’t get inundated by anomalies. Just keep working.”</p>
+<p>That night, Rafiq couldn’t sleep. His mind was a churn of irregularities. The archives, the rigid schedules, the way Yusuf always said the exact same three phrases in the same order each morning. He scribbled a flowchart, tracking events, reactions, phrases. Patterns emerged—disquieting ones.</p>
 <p>A week later, he went to the outskirts of the city. He wasn’t sure why—only that something was pulling him.</p>
 <p>There, among the transmission towers, he found a utility door marked “AUTHORIZED PERSONNEL ONLY.” It was slightly ajar. No one in the city ever left doors open.</p>
 <p>Inside, fluorescent lights flickered, illuminating a narrow corridor filled with humming servers and tangled wires. A man in a gray coat sat hunched over a terminal.</p>
 <p>“You’re not supposed to be here,” the man said without turning.</p>
 <p>Rafiq stepped closer. “Who are you?”</p>
-<p>The man finally faced him. His expression was <strong>phlegmatic</strong>, his voice cold. “I’m part of the maintenance team. This is a control node.”</p>
+<p>The man finally faced him. His expression was phlegmatic, his voice cold. “I’m part of the maintenance team. This is a control node.”</p>
 <p>“For what?”</p>
 <p>The man stared. “Everything.”</p>
-<p>There was a silence so <strong>pregnant</strong> with tension that Rafiq’s breath caught in his throat.</p>
+<p>There was a silence so pregnant with tension that Rafiq’s breath caught in his throat.</p>
 <p>“You mean—”</p>
 <p>“Yes. Simulated. Engineered. You were part of a psychological resilience study. You opted in voluntarily.”</p>
 <p>Rafiq’s pulse quickened. “Then why don’t I remember?”</p>
-<p>“You opted for a <strong>mnemonic wipe</strong> for authenticity. But the simulation is degrading. You’re starting to see through it.”</p>
+<p>“You opted for a mnemonic wipe for authenticity. But the simulation is degrading. You’re starting to see through it.”</p>
 <p>Rafiq backed away. “No.&nbsp;This isn’t possible. I know this place. I know people.”</p>
 <p>“You know scripts,” the man corrected. “Yusuf? A conversational loop. Imran? Data gatekeeper. Their vocabularies are limited by design.”</p>
 <p>Rafiq clenched his fists. “Then let me out.”</p>
-<p>The man hesitated. “The exit protocol is <strong>arduous</strong>. Painful. But irreversible.”</p>
-<p>“I don’t care. I want truth, not this—<strong>facade</strong>.”</p>
-<hr>
+<p>The man hesitated. “The exit protocol is arduous. Painful. But irreversible.”</p>
+<p>“I don’t care. I want truth, not this—facade.”</p>
 <p>The next thing he saw was light. Real light. Not the programmable ambiance of the simulation.</p>
 <p>He was lying in a pod. Tubes in his arms. A technician nearby dropped his clipboard in shock.</p>
 <p>“Subject 447 has reawakened!”</p>
-<p>Rafiq blinked at the sterile white ceiling. He felt weak, <strong>enervated</strong>, but alive.</p>
+<p>Rafiq blinked at the sterile white ceiling. He felt weak, enervated, but alive.</p>
 <p>They told him it had been twelve years. That the world he remembered was one of thousands—iterations of a controlled environment.</p>
 <p>Now, the air felt colder, the walls less polished, but every imperfection was a reassurance.</p>
 <p>The simulation had been flawless. But it lacked one thing:</p>
-<p><strong>Entropy.</strong></p>
+<p>Entropy.</p>
 <p>And that, more than anything, made the real world sublime.</p>
 
 

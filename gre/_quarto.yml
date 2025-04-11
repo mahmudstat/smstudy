@@ -21,24 +21,27 @@ website:
       - text: "Flashcards"
         href: gre-flashcards.qmd
   sidebar:
-    style: "docked"
-    search: true
+    title: Prep
+    style: "floating"
+    collapse-level: 2
+    align: left
     contents:
       - text: "Home"
         href: index.qmd
-      - section: "Verbal"
         contents:
-          - text: Word List
-            href: gre-word-list.qmd
-          - text: Passages
-            href: gre-short-passage.qmd
-          - text: Stories
-            href: stories.qmd
+          - section: "Verbal"
+            contents:
+              - text: Word List
+                href: gre-word-list.qmd
+              - text: Passages
+                href: gre-short-passage.qmd
+              - text: Stories
+                href: stories.qmd
 
-      - section: "Quant"
-        contents:
-          - text: Data Interpretation
-            href: gre-quant-data.qmd
+          - section: "Quant"
+            contents:
+              - text: Data Interpretation
+                href: gre-quant-data.qmd
 format:
   html:
     theme: literal
