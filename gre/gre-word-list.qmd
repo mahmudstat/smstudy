@@ -735,6 +735,19 @@ To see example in a sentence, click on the word.
 <li id="Misconstrue"><a href="gre-short-passage.html#Misconstrue"><b>Misconstrue</b></a>: <em>To interpret something incorrectly</em></li>
 <li id="Miscreant"><a href="gre-short-passage.html#Miscreant"><b>Miscreant</b></a>: <em>A person who behaves badly or criminally</em></li>
 <li id="Miser"><a href="gre-short-passage.html#Miser"><b>Miser</b></a>: <em>A person who hoards wealth and spends as little as possible</em></li>
+<li id="moment"><a href="gre-short-passage.html#moment"><b>moment</b></a>: <em>Significance or importance</em></li>
+<li id="moot"><a href="gre-short-passage.html#moot"><b>moot</b></a>: <em>Open to debate or argument; unresolved</em></li>
+<li id="mordant"><a href="gre-short-passage.html#mordant"><b>mordant</b></a>: <em>Sharply critical or sarcastic</em></li>
+<li id="moribund"><a href="gre-short-passage.html#moribund"><b>moribund</b></a>: <em>At the point of death; in terminal decline</em></li>
+<li id="morose"><a href="gre-short-passage.html#morose"><b>morose</b></a>: <em>Sullen and ill-tempered</em></li>
+<li id="morph"><a href="gre-short-passage.html#morph"><b>morph</b></a>: <em>To undergo transformation or change</em></li>
+<li id="mulct"><a href="gre-short-passage.html#mulct"><b>mulct</b></a>: <em>To defraud or swindle; to impose a fine</em></li>
+<li id="mundane"><a href="gre-short-passage.html#mundane"><b>mundane</b></a>: <em>Ordinary, everyday, or dull</em></li>
+<li id="mundane2"><a href="gre-short-passage.html#mundane2"><b>mundane</b></a>: <em>Relating to the world rather than the spiritual</em></li>
+<li id="munificent"><a href="gre-short-passage.html#munificent"><b>munificent</b></a>: <em>Very generous</em></li>
+<li id="muted"><a href="gre-short-passage.html#muted"><b>muted</b></a>: <em>Quiet, soft, subdued</em></li>
+<li id="myopic"><a href="gre-short-passage.html#myopic"><b>myopic</b></a>: <em>Short-sighted; lacking foresight or perspective</em></li>
+<li id="myriad"><a href="gre-short-passage.html#myriad"><b>myriad</b></a>: <em>A countless or extremely large number</em></li>
 
 <h2 id="N">N</h2>
 
