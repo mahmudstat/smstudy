@@ -8,7 +8,7 @@ website:
     background: light
     logo: ../assets/images/logo.png
     logo-alt: "Stat Mania logo."
-    title: false
+    title: Stat Mania GRE
     left:
       - href: index.qmd
         text: Home
@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: styles.css
     toc: true
 

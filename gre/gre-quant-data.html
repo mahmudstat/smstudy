@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Flashcard Quiz – GRE Prep</title>
+<title>gre-quant-data – GRE Prep</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Passages</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./gre-flashcards.html" aria-current="page"> 
+    <a class="nav-link" href="./gre-flashcards.html"> 
 <span class="menu-text">Flashcards</span></a>
   </li>  
 </ul>
@@ -123,65 +123,89 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#flashcard-quiz" id="toc-flashcard-quiz" class="nav-link active" data-scroll-target="#flashcard-quiz">Flashcard Quiz</a></li>
+  <li><a href="#data-interpretation-questions" id="toc-data-interpretation-questions" class="nav-link active" data-scroll-target="#data-interpretation-questions">Data Interpretation Questions</a>
+  <ul class="collapse">
+  <li><a href="#table-participation-in-sports" id="toc-table-participation-in-sports" class="nav-link" data-scroll-target="#table-participation-in-sports">🟦 Table: Participation in Sports</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Flashcard Quiz</h1>
+
+
+
+<section id="data-interpretation-questions" class="level2">
+<h2 class="anchored" data-anchor-id="data-interpretation-questions">Data Interpretation Questions</h2>
+<section id="table-participation-in-sports" class="level3">
+<h3 class="anchored" data-anchor-id="table-participation-in-sports">🟦 Table: Participation in Sports</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>Boys</strong></th>
+<th><strong>Girls</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Play Sports</strong></td>
+<td>18</td>
+<td>22</td>
+</tr>
+<tr class="even">
+<td><strong>Don’t Play Sports</strong></td>
+<td>12</td>
+<td>28</td>
+</tr>
+</tbody>
+</table>
+<ol type="1">
+<li>What fraction of all students are girls who play sports?</li>
+</ol>
+<div onclick="klikaj('data11')">
+<span style="cursor:&quot;pointer&quot;">See Answer</span>
+</div>
+<div id="data11" style="visibility: hidden">
+<p>22/80 = 27.5%</p>
+<p>If the question were, “What fraction of students who play sports are girls?”, answer would be 22/40 = 50%</p>
+</div>
+<script>
+function klikaj(i) {
+    document.getElementById(i).style.visibility='visible';
+}
+</script>
+<ol type="1">
+<li>What fraction of the students are boys who don’t play sports?</li>
+</ol>
+<div onclick="klikaj('data12')">
+<span style="cursor:&quot;pointer&quot;">See Answer</span>
+</div>
+<div id="data12" style="visibility: hidden">
+<p>12/80 = 50%</p>
+</div>
+<ol type="1">
+<li>What fraction of students who don’t play sports are girls?</li>
+</ol>
+<div onclick="klikaj('data13')">
+<span style="cursor:&quot;pointer&quot;">See Answer</span>
+</div>
+<div id="data13" style="visibility: hidden">
+<p>28/40</p>
+</div>
+<ol type="1">
+<li>What fraction of all students play sports?</li>
+</ol>
+<div onclick="klikaj('data14')">
+<span style="cursor:&quot;pointer&quot;">See Answer</span>
+</div>
+<div id="data14" style="visibility: hidden">
+<p>40/80 = 50%</p>
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="flashcard-quiz" class="level2">
-<h2 class="anchored" data-anchor-id="flashcard-quiz">Flashcard Quiz</h2>
-<div id="flashcard">
-<pre><code>&lt;div id="question" class="question"&gt;&lt;/div&gt;
-&lt;div id="options" class="options"&gt;&lt;/div&gt;
-&lt;div id="feedback" class="feedback"&gt;&lt;/div&gt;</code></pre>
-</div>
-<p>#flashcard { text-align: center; padding: 20px; font-family: Arial, sans-serif; }</p>
-<p>#question { font-size: 20px; font-weight: bold; margin-bottom: 20px; }</p>
-<p>.options button { padding: 10px; margin: 10px; font-size: 16px; }</p>
-<p>.feedback { margin-top: 20px; font-size: 18px; }</p>
-<p>.correct { color: green; }</p>
-<p>.incorrect { color: red; } const words = [ { word: ‘embellish’, definition: ‘make more attractive by adding ornament, colour, etc.’ }, { word: ‘meander’, definition: ‘to wander aimlessly.’ }, { word: ‘cerebral’, definition: ‘involving intelligence rather than emotions or instinct.’ }, { word: ‘cogent’, definition: ‘clear and persuasive.’ }, { word: ‘corollary’, definition: ‘a practical consequence that follows naturally.’ }, { word: ‘steadfast’, definition: ‘marked by firm determination or resolution; not shakable.’ }, { word: ‘dispassionate’, definition: ‘unaffected by strong emotion or prejudice.’ }, { word: ‘belittle’, definition: ‘lessen the importance, dignity, or reputation of.’ }, { word: ‘preempt’, definition: ‘take the place of or have precedence over.’ }, { word: ‘duplicity’, definition: ‘deceitfulness, pretending to want one thing but interested in something else.’ }];</p>
-<p>function getRandomOptions(correctDefinition) { const otherDefinitions = words .filter(word =&gt; word.definition !== correctDefinition) .map(word =&gt; word.definition); const shuffledOptions = [correctDefinition, …otherDefinitions] .sort(() =&gt; Math.random() - 0.5); // Shuffle the options return shuffledOptions; }</p>
-<p>function generateFlashcard() { const randomWord = words[Math.floor(Math.random() * words.length)]; const questionText = <code>What is the meaning of ${randomWord.word}?</code>; const options = getRandomOptions(randomWord.definition);</p>
-<pre><code>// Display question and options
-document.getElementById('question').innerText = questionText;
-document.getElementById('options').innerHTML = options.map((option, index) =&gt; {
-    return `&lt;button onclick="checkAnswer('${option}', '${randomWord.definition}')"&gt;${option}&lt;/button&gt;`;
-}).join('');
-document.getElementById('feedback').innerHTML = ''; // Clear feedback</code></pre>
-<p>}</p>
-<p>function checkAnswer(selectedOption, correctDefinition) { const feedback = document.getElementById(‘feedback’); if (selectedOption === correctDefinition) { feedback.innerHTML = ‘Correct!’; feedback.className = ‘feedback correct’; } else { feedback.innerHTML = <code>Incorrect! The correct answer is: ${correctDefinition}</code>; feedback.className = ‘feedback incorrect’; }</p>
-<pre><code>// Disable options after selection
-const buttons = document.querySelectorAll('.options button');
-buttons.forEach(button =&gt; button.disabled = true);
-
-// Add a delay and then generate a new flashcard
-setTimeout(generateFlashcard, 2000);</code></pre>
-<p>}</p>
-<p>// Initial flashcard generation generateFlashcard();</p>
-
-
+</section>
 </section>
 
 </main> <!-- /main -->
