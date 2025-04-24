@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -122,33 +122,28 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./gre-word-list.html">Word List</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home</a></li><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./gre-word-list.html">Word List</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Home</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
  <span class="menu-text">Verbal</span></a>
@@ -156,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gre-word-list.html" class="sidebar-item-text sidebar-link active">
@@ -177,21 +172,29 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
-        <li class="sidebar-item sidebar-item-section">
+          <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
  <span class="menu-text">Quant</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gre-quant-data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Interpretation</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./gre-quant-prob.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Combinatorics and Probability</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
       </ul>
   </li>
     </ul>
@@ -2297,44 +2300,44 @@ M
 <li id="Miser">
 <a href="gre-short-passage.html#Miser"><b>Miser</b></a>: <em>A person who hoards wealth and spends as little as possible</em>
 </li>
-<li id="moment">
-<a href="gre-short-passage.html#moment"><b>moment</b></a>: <em>Significance or importance</em>
+<li id="Moment">
+<a href="gre-short-passage.html#Moment"><b>Moment</b></a>: <em>Significance or importance</em>
 </li>
-<li id="moot">
-<a href="gre-short-passage.html#moot"><b>moot</b></a>: <em>Open to debate or argument; unresolved</em>
+<li id="Moot">
+<a href="gre-short-passage.html#Moot"><b>Moot</b></a>: <em>Open to debate or argument; unresolved</em>
 </li>
-<li id="mordant">
-<a href="gre-short-passage.html#mordant"><b>mordant</b></a>: <em>Sharply critical or sarcastic</em>
+<li id="Mordant">
+<a href="gre-short-passage.html#Mordant"><b>Mordant</b></a>: <em>Sharply critical or sarcastic</em>
 </li>
-<li id="moribund">
-<a href="gre-short-passage.html#moribund"><b>moribund</b></a>: <em>At the point of death; in terminal decline</em>
+<li id="Moribund">
+<a href="gre-short-passage.html#Moribund"><b>Moribund</b></a>: <em>At the point of death; in terminal decline</em>
 </li>
-<li id="morose">
-<a href="gre-short-passage.html#morose"><b>morose</b></a>: <em>Sullen and ill-tempered</em>
+<li id="Morose">
+<a href="gre-short-passage.html#Morose"><b>Morose</b></a>: <em>Sullen and ill-tempered</em>
 </li>
-<li id="morph">
-<a href="gre-short-passage.html#morph"><b>morph</b></a>: <em>To undergo transformation or change</em>
+<li id="Morph">
+<a href="gre-short-passage.html#Morph"><b>Morph</b></a>: <em>To undergo transformation or change</em>
 </li>
-<li id="mulct">
-<a href="gre-short-passage.html#mulct"><b>mulct</b></a>: <em>To defraud or swindle; to impose a fine</em>
+<li id="Mulct">
+<a href="gre-short-passage.html#Mulct"><b>Mulct</b></a>: <em>To defraud or swindle; to impose a fine</em>
 </li>
-<li id="mundane">
-<a href="gre-short-passage.html#mundane"><b>mundane</b></a>: <em>Ordinary, everyday, or dull</em>
+<li id="Mundane">
+<a href="gre-short-passage.html#Mundane"><b>Mundane</b></a>: <em>Ordinary, everyday, or dull</em>
 </li>
-<li id="mundane2">
-<a href="gre-short-passage.html#mundane2"><b>mundane</b></a>: <em>Relating to the world rather than the spiritual</em>
+<li id="Mundane2">
+<a href="gre-short-passage.html#Mundane2"><b>Mundane</b></a>: <em>Relating to the world rather than the spiritual</em>
 </li>
-<li id="munificent">
-<a href="gre-short-passage.html#munificent"><b>munificent</b></a>: <em>Very generous</em>
+<li id="Munificent">
+<a href="gre-short-passage.html#Munificent"><b>Munificent</b></a>: <em>Very generous</em>
 </li>
-<li id="muted">
-<a href="gre-short-passage.html#muted"><b>muted</b></a>: <em>Quiet, soft, subdued</em>
+<li id="Muted">
+<a href="gre-short-passage.html#Muted"><b>Muted</b></a>: <em>Quiet, soft, subdued</em>
 </li>
-<li id="myopic">
-<a href="gre-short-passage.html#myopic"><b>myopic</b></a>: <em>Short-sighted; lacking foresight or perspective</em>
+<li id="Myopic">
+<a href="gre-short-passage.html#Myopic"><b>Myopic</b></a>: <em>Short-sighted; lacking foresight or perspective</em>
 </li>
-<li id="myriad">
-<a href="gre-short-passage.html#myriad"><b>myriad</b></a>: <em>A countless or extremely large number</em>
+<li id="Myriad">
+<a href="gre-short-passage.html#Myriad"><b>Myriad</b></a>: <em>A countless or extremely large number</em>
 </li>
 <h2 id="N" class="anchored">
 N

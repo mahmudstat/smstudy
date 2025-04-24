@@ -42,6 +42,8 @@ website:
             contents:
               - text: Data Interpretation
                 href: gre-quant-data.qmd
+              - text: Combinatorics and Probability
+                href: gre-quant-prob.qmd
 format:
   html:
     theme: literal

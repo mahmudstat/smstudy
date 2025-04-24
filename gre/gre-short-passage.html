@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="tooltip.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -123,33 +123,28 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./gre-short-passage.html">Passages</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home</a></li><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./gre-short-passage.html">Passages</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Home</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
  <span class="menu-text">Verbal</span></a>
@@ -157,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gre-word-list.html" class="sidebar-item-text sidebar-link">
@@ -178,21 +173,29 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
-        <li class="sidebar-item sidebar-item-section">
+          <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
  <span class="menu-text">Quant</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gre-quant-data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Interpretation</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./gre-quant-prob.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Combinatorics and Probability</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
       </ul>
   </li>
     </ul>
@@ -205,40 +208,47 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#day-01" id="toc-day-01" class="nav-link active" data-scroll-target="#day-01">Day 01</a>
+  <li><a href="#segment-01" id="toc-segment-01" class="nav-link active" data-scroll-target="#segment-01">Segment 01</a>
   <ul class="collapse">
   <li><a href="#passage-01" id="toc-passage-01" class="nav-link" data-scroll-target="#passage-01">Passage 01</a></li>
   <li><a href="#passage-02" id="toc-passage-02" class="nav-link" data-scroll-target="#passage-02">Passage 02</a></li>
   <li><a href="#passage-03" id="toc-passage-03" class="nav-link" data-scroll-target="#passage-03">Passage 03</a></li>
   <li><a href="#passage-04" id="toc-passage-04" class="nav-link" data-scroll-target="#passage-04">Passage 04</a></li>
   </ul></li>
-  <li><a href="#day-02" id="toc-day-02" class="nav-link" data-scroll-target="#day-02">Day 02</a>
+  <li><a href="#segment-02" id="toc-segment-02" class="nav-link" data-scroll-target="#segment-02">Segment 02</a>
   <ul class="collapse">
   <li><a href="#passage-01-1" id="toc-passage-01-1" class="nav-link" data-scroll-target="#passage-01-1">Passage 01</a></li>
   <li><a href="#passage-02-1" id="toc-passage-02-1" class="nav-link" data-scroll-target="#passage-02-1">Passage 02</a></li>
   <li><a href="#passage-03-1" id="toc-passage-03-1" class="nav-link" data-scroll-target="#passage-03-1">Passage 03</a></li>
   <li><a href="#passage-04-1" id="toc-passage-04-1" class="nav-link" data-scroll-target="#passage-04-1">Passage 04</a></li>
   </ul></li>
-  <li><a href="#day-03" id="toc-day-03" class="nav-link" data-scroll-target="#day-03">Day 03</a>
+  <li><a href="#segment-03" id="toc-segment-03" class="nav-link" data-scroll-target="#segment-03">Segment 03</a>
   <ul class="collapse">
   <li><a href="#passage-01-2" id="toc-passage-01-2" class="nav-link" data-scroll-target="#passage-01-2">Passage 01</a></li>
   <li><a href="#passage-02-2" id="toc-passage-02-2" class="nav-link" data-scroll-target="#passage-02-2">Passage 02</a></li>
   <li><a href="#passage-03-2" id="toc-passage-03-2" class="nav-link" data-scroll-target="#passage-03-2">Passage 03</a></li>
   <li><a href="#passage-04-2" id="toc-passage-04-2" class="nav-link" data-scroll-target="#passage-04-2">Passage 04</a></li>
   </ul></li>
-  <li><a href="#day-03-1" id="toc-day-03-1" class="nav-link" data-scroll-target="#day-03-1">Day 03</a>
+  <li><a href="#segment-03-1" id="toc-segment-03-1" class="nav-link" data-scroll-target="#segment-03-1">Segment 03</a>
   <ul class="collapse">
   <li><a href="#passage-01-3" id="toc-passage-01-3" class="nav-link" data-scroll-target="#passage-01-3">Passage 01</a></li>
   <li><a href="#passage-02-3" id="toc-passage-02-3" class="nav-link" data-scroll-target="#passage-02-3">Passage 02</a></li>
   <li><a href="#passage-03-3" id="toc-passage-03-3" class="nav-link" data-scroll-target="#passage-03-3">Passage 03</a></li>
   <li><a href="#passage-04-3" id="toc-passage-04-3" class="nav-link" data-scroll-target="#passage-04-3">Passage 04</a></li>
   </ul></li>
-  <li><a href="#day-04" id="toc-day-04" class="nav-link" data-scroll-target="#day-04">Day 04</a>
+  <li><a href="#segment-04" id="toc-segment-04" class="nav-link" data-scroll-target="#segment-04">Segment 04</a>
   <ul class="collapse">
   <li><a href="#passage-01-4" id="toc-passage-01-4" class="nav-link" data-scroll-target="#passage-01-4">Passage 01</a></li>
   <li><a href="#passage-02-4" id="toc-passage-02-4" class="nav-link" data-scroll-target="#passage-02-4">Passage 02</a></li>
   <li><a href="#passage-03-4" id="toc-passage-03-4" class="nav-link" data-scroll-target="#passage-03-4">Passage 03</a></li>
   <li><a href="#passage-04-4" id="toc-passage-04-4" class="nav-link" data-scroll-target="#passage-04-4">Passage 04</a></li>
+  </ul></li>
+  <li><a href="#segment-05" id="toc-segment-05" class="nav-link" data-scroll-target="#segment-05">Segment 05</a>
+  <ul class="collapse">
+  <li><a href="#passage-01-5" id="toc-passage-01-5" class="nav-link" data-scroll-target="#passage-01-5">Passage 01</a></li>
+  <li><a href="#passage-02-5" id="toc-passage-02-5" class="nav-link" data-scroll-target="#passage-02-5">Passage 02</a></li>
+  <li><a href="#the-fall-of-the-model-officer" id="toc-the-fall-of-the-model-officer" class="nav-link" data-scroll-target="#the-fall-of-the-model-officer">The Fall of the Model Officer</a></li>
+  <li><a href="#shadows-beneath-the-surface" id="toc-shadows-beneath-the-surface" class="nav-link" data-scroll-target="#shadows-beneath-the-surface">Shadows Beneath the Surface</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -246,7 +256,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./gre-short-passage.html">Passages</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home</a></li><li class="breadcrumb-item"><a href="./gre-word-list.html">Verbal</a></li><li class="breadcrumb-item"><a href="./gre-short-passage.html">Passages</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">GRE Short Passages</h1>
 </div>
@@ -267,8 +277,8 @@ ul.task-list li input[type="checkbox"] {
 
 <p>The passages are meant to allow you practice the GRE words after learning them. They will help you recall the meaning.</p>
 <p><em>Click on the word to see its meaning</em></p>
-<section id="day-01" class="level2">
-<h2 class="anchored" data-anchor-id="day-01">Day 01</h2>
+<section id="segment-01" class="level2">
+<h2 class="anchored" data-anchor-id="segment-01">Segment 01</h2>
 <section id="passage-01" class="level3">
 <h3 class="anchored" data-anchor-id="passage-01">Passage 01</h3>
 <p>The speaker’s attempt to <a id="Embellish" href="gre-word-list.html#Embellish"><strong>embellish</strong></a> the facts only served to confuse the audience, as he began to <a id="Meander" href="gre-word-list.html#Meander"><strong>meander</strong></a> through irrelevant anecdotes. In contrast, his opponent’s argument was both <a id="Cerebral" href="gre-word-list.html#Cerebral"><strong>cerebral</strong></a> and <a id="Cogent" href="gre-word-list.html#Cogent"><strong>cogent</strong></a>, supported by data and a clear logical structure. The most compelling <a id="Corollary" href="gre-word-list.html#Corollary"><strong>corollary</strong></a> to her reasoning was that effective policies must remain <a id="Steadfast" href="gre-word-list.html#Steadfast"><strong>steadfast</strong></a> even in the face of political turbulence. Her <a id="Dispassionate" href="gre-word-list.html#Dispassionate"><strong>dispassionate</strong></a> tone contrasted sharply with his tendency to <a id="Belittle" href="gre-word-list.html#Belittle"><strong>belittle</strong></a> opposing views. In a move to <a id="Preempt" href="gre-word-list.html#Preempt"><strong>preempt</strong></a> criticism, she addressed the weaknesses in her proposal openly, avoiding the kind of <a id="Duplicity" href="gre-word-list.html#Duplicity"><strong>duplicity</strong></a> that had undermined earlier debates.</p>
@@ -286,8 +296,8 @@ ul.task-list li input[type="checkbox"] {
 <p>His career had finally reached its <a id="Summit" href="gre-word-list.html#Summit"><strong>summit</strong></a>, a pinnacle of achievement few in his field could rival. But success did not make him complacent. While others might indulge, he maintained a <a id="Spartan" href="gre-word-list.html#Spartan"><strong>spartan</strong></a> lifestyle, eschewing luxury for discipline. A sudden scandal emerged, yet he remained untouched, his character long considered <a id="Unimpeachable" href="gre-word-list.html#Unimpeachable"><strong>unimpeachable</strong></a>. In the face of public frenzy, where commentators <a id="Maunder" href="gre-word-list.html#Maunder"><strong>maundered</strong></a> endlessly with little substance, he took quiet but firm action. Though the crisis was an <a id="Anomaly" href="gre-word-list.html#Anomaly"><strong>anomaly</strong></a> in an otherwise smooth trajectory, his <a id="Resolve" href="gre-word-list.html#Resolve"><strong>resolve</strong></a> never faltered. He worked to <a id="Foment" href="gre-word-list.html#Foment"><strong>foment</strong></a> meaningful change rather than retaliation, an <a id="Estimable" href="gre-word-list.html#Estimable"><strong>estimable</strong></a> quality that drew admiration—even from opponents. In contrast, his rival’s <a id="Forlorn" href="gre-word-list.html#Forlorn"><strong>forlorn</strong></a> efforts to stir a <a id="Melee" href="gre-word-list.html#Melee"><strong>melee</strong></a> of public opinion quickly fizzled, lacking the gravity or grace to match him.</p>
 </section>
 </section>
-<section id="day-02" class="level2">
-<h2 class="anchored" data-anchor-id="day-02">Day 02</h2>
+<section id="segment-02" class="level2">
+<h2 class="anchored" data-anchor-id="segment-02">Segment 02</h2>
 <section id="passage-01-1" class="level3">
 <h3 class="anchored" data-anchor-id="passage-01-1">Passage 01</h3>
 <p>She tried to <a id="Equivocate" href="gre-word-list.html#Equivocate"><strong>equivocate</strong></a> during the interview, dodging questions about her controversial report, but the panel wasn’t fooled. The once <a id="Effervescent" href="gre-word-list.html#Effervescent"><strong>effervescent</strong></a> scientist now appeared <a id="Morose" href="gre-word-list.html#Morose"><strong>morose</strong></a>, her energy drained by months of criticism. The backlash had been <a id="Excruciating" href="gre-word-list.html#Excruciating"><strong>excruciating</strong></a>, amplified by the media’s relentless desire to <a id="Pillory" href="gre-word-list.html#Pillory"><strong>pillory</strong></a> anyone who defied consensus. Attempts to <a id="Squelch" href="gre-word-list.html#Squelch"><strong>squelch</strong></a> the uproar had failed, and even her supporters grew <a id="Disheartened" href="gre-word-list.html#Disheartened"><strong>disheartened</strong></a>. What was most <a id="Poignant" href="gre-word-list.html#Poignant"><strong>poignant</strong></a> was the contrast between her current state and her past brilliance—when she made <a id="Prodigious" href="gre-word-list.html#Prodigious"><strong>prodigious</strong></a> discoveries and carried herself with inspiring confidence. But over time, her once-bold stance softened into a <a id="Complacent" href="gre-word-list.html#Complacent"><strong>complacent</strong></a> silence, worn down by a system that punished dissent.</p>
@@ -305,8 +315,8 @@ ul.task-list li input[type="checkbox"] {
 <p>The Eiffel Tower, an iconic structure in Paris, is a <a id="Conspicuous" href="gre-word-list.html#Conspicuous"><strong>conspicuous</strong></a> symbol of French ingenuity and engineering prowess, towering over the city. However, its original reception was less than <a id="Amiable" href="gre-word-list.html#Amiable"><strong>amiable</strong></a>, with many critics <a id="Confound" href="gre-word-list.html#Confound"><strong>confounding</strong></a> its design with disdain, calling it an eyesore. Despite these critiques, the tower has become so synonymous with Paris that it’s nearly impossible to <a id="Differentiate" href="gre-word-list.html#Differentiate"><strong>differentiate</strong></a> the city from the monument itself. In its early years, some even considered the structure an <a id="Apostate" href="gre-word-list.html#Apostate"><strong>apostate</strong></a> against traditional French architecture, marking a departure from classical styles. Yet, through the years, it has emerged as a <a id="Sedulous" href="gre-word-list.html#Sedulous"><strong>sedulous</strong></a> testament to progress, overcoming early disparagements. Like a <a id="Hound" href="gre-word-list.html#Hound"><strong>hound</strong></a> relentlessly pursuing its goal, the Eiffel Tower rose to prominence, its critics unable to <a id="Arrogate" href="gre-word-list.html#Arrogate"><strong>arrogate</strong></a> its position as a cultural landmark. Today, it stands as a symbol of both <a id="Martial" href="gre-word-list.html#Martial"><strong>martial</strong></a> precision and artistic elegance, despite being built during an era when many regarded it as an <a id="Errant" href="gre-word-list.html#Errant"><strong>arrant</strong></a> folly. Yet, its towering presence is anything but <a id="Phlegmatic" href="gre-word-list.html#Phlegmatic"><strong>phlegmatic</strong></a>, as it continues to inspire awe in visitors from around the world.</p>
 </section>
 </section>
-<section id="day-03" class="level2">
-<h2 class="anchored" data-anchor-id="day-03">Day 03</h2>
+<section id="segment-03" class="level2">
+<h2 class="anchored" data-anchor-id="segment-03">Segment 03</h2>
 <section id="passage-01-2" class="level3">
 <h3 class="anchored" data-anchor-id="passage-01-2">Passage 01</h3>
 <p>The Amazon Rainforest, often referred to as the “lungs of the Earth,” is a vast and diverse ecosystem that spans across nine countries in South America. Its ecological importance is <a id="Impregnable" href="gre-word-list.html#Impregnable"><strong>impregnable</strong></a>, playing a crucial role in regulating the global climate by absorbing large amounts of carbon dioxide. However, human activity, such as deforestation, continues to <a id="Exasperate" href="gre-word-list.html#Exasperate"><strong>exasperate</strong></a> conservation efforts, as the forest’s delicate balance is being disrupted. To <a id="Disabuse" href="gre-word-list.html#Disabuse"><strong>disabuse</strong></a> those who think that the Amazon is invulnerable, it is important to note that its survival is increasingly under threat. While some <a id="Espouse" href="gre-word-list.html#Espouse"><strong>espouse</strong></a> the idea of economic development over environmental concerns, many environmentalists argue that the future of the Earth hinges on preserving this irreplaceable resource. The Amazon also has a <a id="Forthcoming" href="gre-word-list.html#Forthcoming"><strong>forthcoming</strong></a> role in scientific discoveries, with ongoing research revealing new species and medicinal plants. Despite challenges, the Amazon remains a <a id="Thoroughgoing" href="gre-word-list.html#Thoroughgoing"><strong>thoroughgoing</strong></a> testament to the Earth’s natural beauty and resilience, and efforts to protect it have been gaining momentum globally. The region’s indigenous peoples, although <a id="Diffident" href="gre-word-list.html#Diffident"><strong>diffident</strong></a> about outsiders, have long been protectors of the forest, offering valuable knowledge on sustainable living. As the world faces environmental crises, the Amazon serves as a <a id="Audacious" href="gre-word-list.html#Audacious"><strong>audacious</strong></a> reminder of nature’s grandeur and fragility. The devastation of parts of the forest would <a id="Stultify" href="gre-word-list.html#Stultify"><strong>stultify</strong></a> any efforts to combat climate change. The increasing power of multinational corporations, sometimes acting as a <a id="Junta" href="gre-word-list.html#Junta"><strong>junta</strong></a> in their impact on the region, poses a serious threat to the rainforest’s survival. Preserving the Amazon is nothing short of an <a id="Apotheosis" href="gre-word-list.html#Apotheosis"><strong>apotheosis</strong></a> of global environmental efforts.</p>
@@ -324,8 +334,8 @@ ul.task-list li input[type="checkbox"] {
 <p>The old town, once a vibrant hub, now looked <a id="Lugubrious" href="gre-word-list.html#Lugubrious"><strong>lugubrious</strong></a>, with its <a id="Antiquated" href="gre-word-list.html#Antiquated"><strong>antiquated</strong></a> buildings and fading architecture, leaving an impression of decay. It had reached its <a id="Zenith" href="gre-word-list.html#Zenith"><strong>zenith</strong></a> decades ago, but now it seemed to <a id="Hobble" href="gre-word-list.html#Hobble"><strong>hobble</strong></a> along, struggling with its old ways. The town’s leaders, often seen to <a id="Badger" href="gre-word-list.html#Badger"><strong>badger</strong></a> one another over petty issues, failed to <a id="Redress" href="gre-word-list.html#Redress"><strong>redress</strong></a> the mounting challenges. Still, one or two had an uncanny <a id="Prescience" href="gre-word-list.html#Prescience"><strong>prescience</strong></a> of the future and knew that change was inevitable. Their <a id="Scrupulous" href="gre-word-list.html#Scrupulous"><strong>scrupulous</strong></a> attention to detail in preserving the town’s best aspects stood in stark contrast to the others’ apathy. In moments of conversation, a few of the more <a id="Urbane" href="gre-word-list.html#Urbane"><strong>urbane</strong></a> residents spoke with a <a id="Nuance" href="gre-word-list.html#Nuance"><strong>nuance</strong></a> that reflected an understanding of both the past and the future, trying to keep the town’s spirit alive amidst the decline.</p>
 </section>
 </section>
-<section id="day-03-1" class="level2">
-<h2 class="anchored" data-anchor-id="day-03-1">Day 03</h2>
+<section id="segment-03-1" class="level2">
+<h2 class="anchored" data-anchor-id="segment-03-1">Segment 03</h2>
 <section id="passage-01-3" class="level3">
 <h3 class="anchored" data-anchor-id="passage-01-3">Passage 01</h3>
 <p>The discussion at the university symposium began as a casual <a id="Powwow" href="gre-word-list.html#Powwow"><strong>powwow</strong></a>, but soon evolved into a spirited debate. An <a id="Erudite" href="gre-word-list.html#Erudite"><strong>erudite</strong></a> professor of political philosophy presented a <a id="Tendentious" href="gre-word-list.html#Tendentious"><strong>tendentious</strong></a> argument in favor of centralized governance, sparking strong reactions from the audience. His rhetoric was <a id="Artful" href="gre-word-list.html#Artful"><strong>artful</strong></a>, weaving through <a id="Tortuous" href="gre-word-list.html#Tortuous"><strong>tortuous</strong></a> lines of reasoning that required focused attention. A colleague attempted to <a id="Admonish" href="gre-word-list.html#Admonish"><strong>admonish</strong></a> him gently, warning that such bias might alienate others. As the debate <a id="Culminate" href="gre-word-list.html#Culminate"><strong>culminated</strong></a> in a round of open questions, a student stood up, her presence almost <a id="Ethereal" href="gre-word-list.html#Ethereal"><strong>ethereal</strong></a> in her quiet confidence. She asked how, in a diverse society, one viewpoint could <a id="Prevail" href="gre-word-list.html#Prevail"><strong>prevail</strong></a> without <a id="Disseminate" href="gre-word-list.html#Disseminate"><strong>disseminating</strong></a> knowledge across perspectives. Her question drew applause, and the mood shifted to a more <a id="Genial" href="gre-word-list.html#Genial"><strong>genial</strong></a> exchange of ideas.</p>
@@ -343,8 +353,8 @@ ul.task-list li input[type="checkbox"] {
 <p>The once-quiet coastal town began to <a id="Burgeon" href="gre-word-list.html#Burgeon"><strong>burgeon</strong></a> into a bustling port after the construction of a new harbor, a project designed to <a id="Buttress" href="gre-word-list.html#Buttress"><strong>buttress</strong></a> the local economy. Despite the <a id="Robust" href="gre-word-list.html#Robust"><strong>robust</strong></a> growth, not everyone welcomed the change. Longtime residents, some of whom grew <a id="Dolorous" href="gre-word-list.html#Dolorous"><strong>dolorous</strong></a> at the loss of their peaceful routines, voiced their concerns at town meetings. The debates grew <a id="Tempestuous" href="gre-word-list.html#Tempestuous"><strong>tempestuous</strong></a>, with opposing parties refusing to budge—especially one <a id="Adamant" href="gre-word-list.html#Adamant"><strong>adamant</strong></a> council member who would not concede an inch. A few <a id="Frivolous" href="gre-word-list.html#Frivolous"><strong>frivolous</strong></a> objections made by attention-seeking participants were quickly dismissed. But deeper issues remained, such as how to deal with an influx of outsiders, some of whom were <a id="Miscreant" href="gre-word-list.html#Miscreant"><strong>miscreant</strong></a>s causing trouble. In hindsight, the town’s leaders had to <a id="Qualify" href="gre-word-list.html#Qualify"><strong>qualify</strong></a> their initial optimism; the benefits, though tangible, came with <a id="Abysmal" href="gre-word-list.html#Abysmal"><strong>abysmal</strong></a> consequences they hadn’t foreseen.</p>
 </section>
 </section>
-<section id="day-04" class="level2">
-<h2 class="anchored" data-anchor-id="day-04">Day 04</h2>
+<section id="segment-04" class="level2">
+<h2 class="anchored" data-anchor-id="segment-04">Segment 04</h2>
 <section id="passage-01-4" class="level3">
 <h3 class="anchored" data-anchor-id="passage-01-4">Passage 01</h3>
 <p>The migratory patterns of birds present a fascinating <a id="Conundrum" href="gre-word-list.html#Conundrum"><strong>conundrum</strong></a> for ornithologists, who strive to understand the <a id="Concomitant" href="gre-word-list.html#Concomitant"><strong>concomitant</strong></a> effects of climate change, habitat loss, and navigation instincts. While some species are <a id="Tractable" href="gre-word-list.html#Tractable"><strong>tractable</strong></a> enough to be tracked and studied, others defy easy observation, frustrating even the most seasoned researchers. In their quest, scientists have shown immense <a id="Ingenuity" href="gre-word-list.html#Ingenuity"><strong>ingenuity</strong></a>, using satellite tags and AI models. However, they often face opposition from those who <a id="Denigrate" href="gre-word-list.html#Denigrate"><strong>denigrate</strong></a> conservation efforts as overly idealistic. When migration routes suddenly change, conservationists don’t <a id="Quail" href="gre-word-list.html#Quail"><strong>quail</strong></a>; instead, they adapt with persistence. Despite occasional <a id="Rash" href="gre-word-list.html#Rash"><strong>rash</strong></a> policy changes that disrupt bird habitats, the work of such researchers is <a id="Creditable" href="gre-word-list.html#Creditable"><strong>creditable</strong></a> and often deserves a public <a id="Panegyric" href="gre-word-list.html#Panegyric"><strong>panegyric</strong></a>. Still, delays in protection laws tend to <a id="Rile" href="gre-word-list.html#Rile"><strong>rile</strong></a> both scientists and environmentalists alike.</p>
@@ -360,6 +370,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="passage-04-4" class="level3">
 <h3 class="anchored" data-anchor-id="passage-04-4">Passage 04</h3>
 <p>The culinary world, once in its <a id="Heyday" href="gre-word-list.html#Heyday"><strong>heyday</strong></a> of traditional techniques and handwritten recipes, has transformed into a domain defined by innovation and spectacle. Yet, this evolution has not been without critique. Many chefs <a id="Castigate" href="gre-word-list.html#Castigate"><strong>castigate</strong></a> the new generation for their <a id="Wanton" href="gre-word-list.html#Wanton"><strong>wanton</strong></a> disregard for authenticity, accusing them of indulging in showmanship over substance. The rise of social media “foodies” has brought with it a <a id="Profuse" href="gre-word-list.html#Profuse"><strong>profuse</strong></a> stream of content—much of it lacking depth—turning thoughtful culinary discourse into endless <a id="Palaver" href="gre-word-list.html#Palaver"><strong>palaver</strong></a>. Meanwhile, critics lament the <a id="Turpitude" href="gre-word-list.html#Turpitude"><strong>turpitude</strong></a> behind food waste and labor exploitation in high-end kitchens. Still, amid these <a id="Infelicitous" href="gre-word-list.html#Infelicitous"><strong>infelicitous</strong></a> realities, a new <a id="Zeitgeist" href="gre-word-list.html#Zeitgeist"><strong>zeitgeist</strong></a> has emerged—one that favors sustainability and inclusivity, seeking a return to a more <a id="Pristine" href="gre-word-list.html#Pristine"><strong>pristine</strong></a> form of culinary art. However, some critics argue the shift has also ushered in <a id="Noisome" href="gre-word-list.html#Noisome"><strong>noisome</strong></a> trends that prioritize viral appeal over gastronomic excellence.</p>
+</section>
+</section>
+<section id="segment-05" class="level2">
+<h2 class="anchored" data-anchor-id="segment-05">Segment 05</h2>
+<section id="passage-01-5" class="level3">
+<h3 class="anchored" data-anchor-id="passage-01-5">Passage 01</h3>
+<p>Here is a short GRE-style passage with your requested words, formatted as per your instructions:</p>
+<p>The professor’s lecture on the plague, replete with <a id="Macabre" href="gre-word-list.html#Macabre"><strong>macabre</strong></a> anecdotes, struck some students as <a id="Indecorous" href="gre-word-list.html#Indecorous"><strong>indecorous</strong></a> for a morning session. Yet, her intention was not to shock but to challenge the class’s assumptions through <a id="Empiricism" href="gre-word-list.html#Empiricism"><strong>empiricism</strong></a> rather than sanitized narratives. When a critic labeled her examples as “sensational,” she refused to <a id="Retract" href="gre-word-list.html#Retract"><strong>retract</strong></a> her approach, insisting it was a <a id="Deliberate" href="gre-word-list.html#Deliberate"><strong>deliberate</strong></a> pedagogical choice. Others, more <a id="Obliging" href="gre-word-list.html#Obliging"><strong>obliging</strong></a> to convention, avoided controversial topics altogether, fearing departmental <a id="Excoriate" href="gre-word-list.html#Excoriate"><strong>excoriate</strong></a>ion. Still, she argued that avoiding discomfort allows minds to <a id="Ossify" href="gre-word-list.html#Ossify"><strong>ossify</strong></a>, making growth <a id="Elude" href="gre-word-list.html#Elude"><strong>elude</strong></a> both student and teacher. Petty objections about tone seemed <a id="Picayune" href="gre-word-list.html#Picayune"><strong>picayune</strong></a> in comparison to the intellectual rigor she demanded.</p>
+</section>
+<section id="passage-02-5" class="level3">
+<h3 class="anchored" data-anchor-id="passage-02-5">Passage 02</h3>
+<p>Despite the <a id="Vicissitude" href="gre-word-list.html#Vicissitude"><strong>vicissitudes</strong></a> of economic downturns and leadership changes, Maya remained a <a id="Tenacious" href="gre-word-list.html#Tenacious"><strong>tenacious</strong></a> advocate for transparency in public office. She refused the subtle <a id="Perquisite" href="gre-word-list.html#Perquisite"><strong>perquisites</strong></a> offered by lobbyists, aware that such privileges often <a id="Denote" href="gre-word-list.html#Denote"><strong>denote</strong></a> deeper currents of <a id="Venality" href="gre-word-list.html#Venality"><strong>venality</strong></a>. Her critics labeled her <a id="Sanctimonious" href="gre-word-list.html#Sanctimonious"><strong>sanctimonious</strong></a>, scoffing at her moral rigor, while supporters viewed her as a rare <a id="Percipient" href="gre-word-list.html#Percipient"><strong>percipient</strong></a> voice amid the noise. Unlike her more <a id="Pollyannaish" href="gre-word-list.html#Pollyannaish"><strong>Pollyannaish</strong></a> peers, she did not downplay the system’s flaws, nor did she lack the <a id="Gall" href="gre-word-list.html#Gall"><strong>gall</strong></a> to challenge entrenched powers. Her stance, though not always popular, had become a <a id="Perennial" href="gre-word-list.html#Perennial"><strong>perennial</strong></a> thorn in the side of corruption.</p>
+</section>
+<section id="the-fall-of-the-model-officer" class="level3">
+<h3 class="anchored" data-anchor-id="the-fall-of-the-model-officer">The Fall of the Model Officer</h3>
+<p>Once a <a id="Paragon" href="gre-word-list.html#Paragon"><strong>paragon</strong></a> of discipline and integrity, Lieutenant Harrow had grown increasingly <a id="Besotted" href="gre-word-list.html#Besotted"><strong>besotted</strong></a> with the charms of a foreign dignitary’s daughter. His once-<a id="Candid" href="gre-word-list.html#Candid"><strong>candid</strong></a> assessments were now clouded by loyalty to her father’s <a id="Treacherous" href="gre-word-list.html#Treacherous"><strong>treacherous</strong></a> plans. Harrow had always been <a id="Amenable" href="gre-word-list.html#Amenable"><strong>amenable</strong></a> to advice, but this time he allowed her to <a id="Ingratiate" href="gre-word-list.html#Ingratiate"><strong>ingratiate</strong></a> herself so completely that he <a id="Cede" href="gre-word-list.html#Cede"><strong>ceded</strong></a> control of classified protocols. His superiors, <a id="Splenetic" href="gre-word-list.html#Splenetic"><strong>splenetic</strong></a> and stunned, assigned an agent to <a id="Ferret" href="gre-word-list.html#Ferret"><strong>ferret</strong></a> out the source of the leaks. Harrow, under investigation, found a brief <a id="Respite" href="gre-word-list.html#Respite"><strong>respite</strong></a> only in recalling the days before he’d let love cloud duty.</p>
+</section>
+<section id="shadows-beneath-the-surface" class="level3">
+<h3 class="anchored" data-anchor-id="shadows-beneath-the-surface">Shadows Beneath the Surface</h3>
+<p>The committee meeting began with a stern warning from the chair, who had vowed to <a id="Censor" href="gre-word-list.html#Censor"><strong>censor</strong></a> any <a id="Facetious" href="gre-word-list.html#Facetious"><strong>facetious</strong></a> remarks during the review of wartime broadcasts. But despite the grave atmosphere, one member’s tone remained <a id="Surly" href="gre-word-list.html#Surly"><strong>surly</strong></a>, his contributions laced with contempt. When asked for a clear position, he became <a id="Evasive" href="gre-word-list.html#Evasive"><strong>evasive</strong></a>, dodging accountability with rhetorical flourish. A <a id="Recapitulation" href="gre-word-list.html#Recapitulation"><strong>recapitulation</strong></a> of events was requested, and a <a id="Scrupulous" href="gre-word-list.html#Scrupulous"><strong>scrupulous</strong></a> secretary read from detailed minutes. Meanwhile, a junior assistant, anxious to <a id="Grovel" href="gre-word-list.html#Grovel"><strong>grovel</strong></a> before superiors, insisted even the most <a id="Innocuous" href="gre-word-list.html#Innocuous"><strong>innocuous</strong></a> jokes had damaging potential. It was, many agreed, a <a id="Benighted" href="gre-word-list.html#Benighted"><strong>benighted</strong></a> hour for open discourse. In the end, the board’s final <a id="Word" href="gre-word-list.html#Word"><strong>word</strong></a> was that humor, like history, must sometimes yield to policy.</p>
 
 
 </section>
