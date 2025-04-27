@@ -9,8 +9,6 @@ description: "Relationship between Disjoint and Independent Events"
 hidden: false
 ---
 
-#
-
 In probability theory, **disjoint events** and **independent events** describe very different relationships between two events.
 
 ### 1. Disjoint Events (Mutually Exclusive)
