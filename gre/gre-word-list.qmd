@@ -1149,7 +1149,6 @@ To see example in a sentence, click on the word.
 <li id="Wax"><a href="gre-short-passage.html#Wax"><b>Wax</b></a>: <em>To gradually increase in size or intensity</em></li>
 <li id="Whimsical"><a href="gre-short-passage.html#Whimsical"><b>Whimsical</b></a>: <em>Playfully quaint or fanciful; unpredictable</em></li>
 <li id="Winsome"><a href="gre-short-passage.html#Winsome"><b>Winsome</b></a>: <em>Attractive or appealing in a charming way</em></li>
-<li id="Word"><a href="gre-short-passage.html#Word"><b>Word</b></a>: <em>To express (something) in particular words or phrasing</em></li>
 
 <h2 id="X">X</h2>
 <h2 id="Y">Y</h2>
